@@ -1,0 +1,649 @@
+,Unnamed: 0,name,album,artist,length,acousticness,danceability,energy,loudness,tempo,valence,playlist
+0,0,Act Naturally,All-Time Greatest Hits,Buck Owens,143693,0.336,0.552,0.474,-6.847,92.156,0.7,1960s
+1,1,Sea of Heartbreak,The Essential Don Gibson,Don Gibson,151773,0.37,0.594,0.48,-12.03,91.18,0.799,1960s
+2,2,King Of The Road,All Time Greatest Hits,Roger Miller,148280,0.652,0.674,0.365,-10.23,118.009,0.532,1960s
+3,3,Devil Woman,The Story Of My Life: The Best Of Marty Robbins 1952-1965,Marty Robbins,172666,0.921,0.684,0.277,-13.1,145.155,0.642,1960s
+4,4,Mama Tried,Mama Tried/ Pride In What I Am,Merle Haggard,134453,0.719,0.738,0.538,-10.118,97.487,0.81,1960s
+5,5,Gentle On My Mind - Remastered 2001,Gentle On My Mind (Remastered),Glen Campbell,178626,0.189,0.597,0.415,-13.799,108.987,0.826,1960s
+6,6,Last Date - Instrumental,Super Hits,Floyd Cramer,146760,0.858,0.615,0.306,-12.026,103.818,0.613,1960s
+7,7,Jackson (with June Carter Cash),Keep On the Sunny Side - June Carter Cash: Her Life In Music,June Carter Cash,166266,0.552,0.707,0.483,-9.929,128.32,0.79,1960s
+8,8,Harper Valley P.T.A.,Harper Valley P.T.A. (The Plantation Recordings 1968-70),Jeannie C. Riley,194400,0.629,0.795,0.448,-13.427,122.318,0.96,1960s
+9,9,Me And Bobby McGee,Super Hits,Roger Miller,196400,0.392,0.538,0.492,-14.736,166.049,0.899,1960s
+10,10,Six Days On The Road,20th Century Masters: The Millennium Collection: Best Of Dave Dudley,Dave Dudley,134706,0.708,0.703,0.549,-10.952,90.382,0.919,1960s
+11,11,Detroit City,Super Hits,Bobby Bare,169933,0.518,0.519,0.319,-13.142,121.647,0.473,1960s
+12,12,I've Got A Tiger By The Tail - 2006 Remastered Version,21 #1 Hits: The Ultimate Collection,Buck Owens,133866,0.595,0.701,0.497,-10.05,96.513,0.963,1960s
+13,13,Okie From Muskogee,Down Every Road 1962-1994,Merle Haggard,164106,0.334,0.59,0.394,-13.337,139.936,0.717,1960s
+14,14,I Fall To Pieces - Single Version,Sweet Dreams: Her Complete Decca Masters (1960-1963),Patsy Cline,167693,0.884,0.555,0.218,-11.793,111.584,0.612,1960s
+15,15,The Last Thing On My Mind,The Essential Porter Wagoner & Dolly Parton,Porter Wagoner,156160,0.563,0.611,0.412,-12.513,105.811,0.713,1960s
+16,16,Daddy Sang Bass,The Essential Johnny Cash,Johnny Cash,140440,0.699,0.681,0.638,-7.818,96.882,0.677,1960s
+17,17,Hello Walls,Classic Country Gold,Various Artists,142626,0.775,0.596,0.327,-11.569,102.198,0.65,1960s
+18,18,Don't Worry,The Story Of My Life: The Best Of Marty Robbins 1952-1965,Marty Robbins,194160,0.879,0.648,0.165,-16.446,99.585,0.435,1960s
+19,19,Dang Me,Super Hits,Roger Miller,102400,0.705,0.564,0.378,-14.468,197.325,0.687,1960s
+20,20,She Thinks I Still Care - Single Version,Best Of,George Jones,153333,0.642,0.552,0.362,-9.847,115.023,0.639,1960s
+21,21,500 Miles Away from Home,Super Hits,Bobby Bare,162506,0.659,0.519,0.374,-13.115,109.253,0.521,1960s
+22,22,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",At Folsom Prison (Legacy Edition),Johnny Cash,156426,0.0215,0.594,0.577,-12.772,110.783,0.89,1960s
+23,23,Abilene,Abilene,George Hamilton IV,133333,0.445,0.63,0.448,-15.015,104.024,0.753,1960s
+24,24,Swinging Doors,Super Hits Collection - 32 Songs - Swinging Doors,Merle Haggard,172920,0.0234,0.79,0.523,-7.627,122.358,0.606,1960s
+25,25,Yesterday When I Was Young,The Best Of Roy Clark,Roy Clark,200240,0.555,0.328,0.365,-13.772,178.103,0.344,1960s
+26,26,Big Bad John,The Best Of Jimmy Dean,Jimmy Dean,182560,0.596,0.516,0.457,-12.609,173.934,0.455,1960s
+27,27,Together Again,Together Again / My Heart Skips a Beat,Buck Owens,148400,0.585,0.413,0.254,-9.899,76.904,0.526,1960s
+28,28,I've Been Everywhere - Remastered,The Essential Hank Snow,Hank Snow,164640,0.551,0.449,0.537,-13.138,119.689,0.961,1960s
+29,29,Skip a Rope,All-American Cowboy,Henson Cargill,160784,0.608,0.623,0.51,-13.092,145.604,0.54,1960s
+30,30,Crazy - Single Version,Gold,Patsy Cline,162133,0.896,0.508,0.189,-13.191,104.86,0.444,1960s
+31,31,The Carroll County Accident,The Essential Porter Wagoner,Porter Wagoner,169200,0.346,0.643,0.504,-11.231,91.688,0.705,1960s
+32,32,Does My Ring Hurt Your Finger,The Essential Charley Pride,Charley Pride,137493,0.649,0.454,0.326,-11.214,107.64,0.708,1960s
+33,33,He'll Have to Go,The Essential Jim Reeves,Jim Reeves,138640,0.909,0.554,0.186,-15.846,81.181,0.2,1960s
+34,34,The Race Is On,Best Of,George Jones,126533,0.454,0.465,0.674,-8.318,171.246,0.923,1960s
+35,35,Blue Kentucky Girl,Gold,Loretta Lynn,160626,0.71,0.714,0.346,-11.666,113.264,0.57,1960s
+36,36,Flowers On the Wall,Flowers On The Wall: The Essential Statler Brothers 1964-1969,The Statler Brothers,138800,0.792,0.784,0.451,-11.225,100.303,0.78,1960s
+37,37,Love's Gonna Live Here,All-Time Greatest Hits,Buck Owens,124146,0.464,0.621,0.552,-6.986,92.668,0.969,1960s
+38,38,Little Green Apples - Single Version,All Time Greatest Hits,Roger Miller,157960,0.879,0.506,0.182,-17.9,101.797,0.398,1960s
+39,39,Wichita Lineman - Remastered 2001,Wichita Lineman (Remastered),Glen Campbell,186200,0.326,0.192,0.392,-11.667,172.312,0.391,1960s
+40,40,The Cold Hard Facts of Life,The Cold Hard Facts of Life,Porter Wagoner,192946,0.851,0.516,0.438,-11.834,132.519,0.42,1960s
+41,41,Just Between You and Me,Super Hits,Charley Pride,134786,0.618,0.527,0.439,-11.593,110.195,0.659,1960s
+42,42,Girl On The Billboard,Son Of The South,Del Reeves,157000,0.437,0.571,0.653,-9.043,171.06,0.851,1960s
+43,43,Stand By Your Man,Stand By Your Man,Tammy Wynette,157893,0.776,0.563,0.331,-9.681,105.779,0.608,1960s
+44,44,Chug-A-Lug,The Very Best of…,Roger Miller,123360,0.69,0.699,0.408,-11.46,171.922,0.842,1960s
+45,45,Ode To Billie Joe,Ode To Billie Joe,Bobbie Gentry,255001,0.721,0.637,0.189,-10.726,120.142,0.695,1960s
+46,46,Walk Through This World With Me,Walk Through This World With Me,George Jones,137960,0.449,0.435,0.295,-9.043,94.292,0.49,1960s
+47,47,Green Green Grass Of Home,20 All-Time Greatest Hits,Porter Wagoner,178266,0.651,0.679,0.202,-17.938,95.89,0.591,1960s
+48,48,Walk On By,Classic Country Gold,Various Artists,140160,0.738,0.602,0.488,-11.649,134.218,0.97,1960s
+49,49,Ring of Fire,The Essential Johnny Cash,Johnny Cash,155706,0.267,0.661,0.517,-8.004,104.563,0.676,1960s
+50,50,Almost Persuaded,Almost Persuaded,David Houston,176360,0.861,0.251,0.338,-11.897,81.642,0.353,1960s
+51,51,Wings Of A Dove,Capitol Collectors Series,Ferlin Husky,139093,0.54,0.498,0.555,-11.577,184.891,0.888,1960s
+52,52,Don't Come Home A-Drinkin' (With Lovin' On Your Mind) - Single Version,The Definitive Collection,Loretta Lynn,127520,0.725,0.75,0.571,-8.573,83.31,0.946,1960s
+53,53,Stop the World (And Let Me Off),RCA Country Legends: Waylon Jennings,Waylon Jennings,122693,0.498,0.407,0.816,-4.821,87.578,0.779,1960s
+54,54,Ballad Of Forty Dollars,20th Century Masters: The Millennium Collection: Best Of Tom T. Hall,Tom T. Hall,183400,0.334,0.6,0.843,-7.489,115.081,0.866,1960s
+55,55,It's Such A Pretty World Today,Lost Country Hits of the 60s,Various Artists,150093,0.854,0.622,0.344,-12.833,118.377,0.673,1960s
+56,56,"Saginaw, Michigan","Saginaw, Michigan",Lefty Frizzell,182573,0.878,0.596,0.366,-14.933,145.717,0.853,1960s
+57,57,"Please Help Me, I'm Falling",RCA Country Legends,Hank Locklin,141466,0.828,0.552,0.336,-10.712,105.479,0.553,1960s
+58,58,A Boy Named Sue - Live Version,The Greatest: The Number Ones,Johnny Cash,225266,0.758,0.688,0.445,-11.974,101.636,0.92,1960s
+59,59,Leavin' On Your Mind - Single Version,Sweet Dreams: Her Complete Decca Masters (1960-1963),Patsy Cline,144040,0.88,0.476,0.237,-12.795,104.614,0.4,1960s
+60,60,The Bottle Let Me Down,Vintage Collections,Merle Haggard,168466,0.552,0.705,0.451,-8.469,125.86,0.704,1960s
+61,61,Bright Lights and Country Music,Greats,Bill Anderson,161413,0.0985,0.669,0.407,-11.588,135.367,0.69,1960s
+62,62,We'll Get Ahead Someday,The Essential Porter Wagoner & Dolly Parton,Porter Wagoner,117053,0.333,0.68,0.404,-12.732,82.02,0.917,1960s
+63,63,Homecoming - Single Version,Tom T. Hall's Greatest Hits,Tom T. Hall,201000,0.943,0.638,0.301,-17.691,122.767,0.676,1960s
+64,64,Make the World Go Away,The Essential Eddy Arnold,Eddy Arnold,157826,0.926,0.214,0.215,-11.312,205.359,0.477,1960s
+65,65,I Don't Wanna Play House,Tammy's Greatest Hits,Tammy Wynette,154626,0.806,0.546,0.258,-12.894,100.683,0.464,1960s
+66,66,Wine Me Up,Hello Walls,Faron Young,144120,0.133,0.547,0.254,-16.548,139.65,0.903,1960s
+67,67,Wolverton Mountain,Columbia Country Classics Volume 3: Americana,Various Artists,177573,0.806,0.629,0.335,-15.039,157.193,0.834,1960s
+68,68,Talk Back Trembling Lips,Greatest Hits,Ernest Ashworth,160440,0.751,0.575,0.435,-11.801,135.955,0.739,1960s
+69,69,Phantom 309,20 All Time Greatest Hits,Red Sovine,203733,0.801,0.363,0.549,-13.133,147.397,0.688,1960s
+70,70,Branded Man - Remastered,Prison,Merle Haggard,186800,0.386,0.731,0.465,-8.133,120.877,0.519,1960s
+71,71,(Margie's At) The Lincoln Park Inn,(Margie's At) The Lincoln Park Inn,Bobby Bare,198733,0.724,0.364,0.318,-13.345,131.155,0.525,1960s
+72,72,Take Me,The Essential George Jones,George Jones,140733,0.863,0.427,0.209,-13.851,102.668,0.333,1960s
+73,73,Lonesome 7-7203,20 Greatest Hits,Hawkshaw Hawkins,166053,0.812,0.616,0.332,-13.455,115.88,0.662,1960s
+74,74,A Six Pack To Go,20 Greatest Hits,Hank Thompson,129360,0.489,0.67,0.413,-14.734,165.823,0.593,1960s
+75,75,Above And Beyond,All-Time Greatest Hits,Buck Owens,148000,0.597,0.52,0.525,-7.449,147.601,0.743,1960s
+76,76,May the Bird of Paradise Fly up Your Nose,May the Bird of Paradise Fly Up Your Nose,Little Jimmy Dickens,151693,0.738,0.66,0.801,-8.446,104.374,0.867,1960s
+77,77,Welcome to My World,The Essential Jim Reeves,Jim Reeves,152600,0.725,0.341,0.252,-14.869,81.058,0.399,1960s
+78,78,D-I-V-O-R-C-E,Tammy's Greatest Hits,Tammy Wynette,175253,0.836,0.619,0.33,-11.332,99.353,0.602,1960s
+79,79,Fist City,Fist City,Loretta Lynn,132447,0.711,0.657,0.558,-8.736,77.849,0.906,1960s
+80,80,Misery Loves Company,The Best Of The Best,Porter Wagoner,149546,0.534,0.455,0.441,-11.119,189.169,0.633,1960s
+81,81,Don't You Ever Get Tired of Hurting Me,The Other Woman,Ray Price,168240,0.661,0.372,0.184,-16.772,83.535,0.541,1960s
+82,82,The Streets of Baltimore,Streets of Baltimore,Bobby Bare,157640,0.629,0.578,0.447,-14.212,116.128,0.808,1960s
+83,83,Right Or Wrong,The Ultimate Collection,Wanda Jackson,157160,0.814,0.425,0.291,-10.554,114.571,0.393,1960s
+84,84,The Image of Me,Timeless,Conway Twitty,177333,0.338,0.557,0.438,-6.034,87.895,0.45,1960s
+85,85,Honey - 1991 - Remaster,Honey - The Best of Bobby Goldsboro,Bobby Goldsboro,239066,0.21,0.5,0.189,-17.563,93.259,0.587,1960s
+86,86,(That's What You Get) For Lovin' Me,The Essential Waylon Jennings,Waylon Jennings,146133,0.664,0.608,0.684,-9.806,89.074,0.873,1960s
+87,87,Statue of a Fool,20 All Time Greatest Hits,Jack Greene,181106,0.845,0.474,0.249,-14.124,110.078,0.216,1960s
+88,88,You Ain't Woman Enough - Single Version,The Definitive Collection,Loretta Lynn,132320,0.436,0.681,0.45,-10.888,150.148,0.817,1960s
+89,89,Send Me The Pillow You Dream On,25 All-Time Greatest Hits,Johnny Tillotson,173960,0.724,0.433,0.318,-9.149,109.32,0.432,1960s
+90,90,Once a Day,The Essential Connie Smith,Connie Smith,138146,0.221,0.492,0.334,-10.458,136.547,0.692,1960s
+91,91,Standing In The Shadows,"The Best Of Hank Williams, Jr. 20th Century Masters The Millennium Collection","Hank Williams, Jr.",189573,0.902,0.524,0.3,-14.508,98.107,0.544,1960s
+92,92,Am I Losing You,Greatest Hits,Jim Reeves,139733,0.91,0.528,0.121,-21.213,87.834,0.38,1960s
+93,93,Timber I'm Falling,Super Hits,Ferlin Husky,152800,0.526,0.757,0.701,-7.345,112.947,0.884,1960s
+94,94,Pop a Top,The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown),The Browns,140306,0.687,0.524,0.497,-10.824,118.263,0.913,1960s
+95,95,Still - Single Version,The Definitive Collection,Bill Anderson,166973,0.678,0.561,0.142,-18.972,94.454,0.293,1960s
+96,96,Big Iron,Gunfighter Ballads And Trail Songs,Marty Robbins,235733,0.803,0.726,0.474,-7.834,116.027,0.57,1960s
+97,97,One in a Row,One Hell Of A Ride,Willie Nelson,152986,0.724,0.545,0.194,-10.909,96.515,0.515,1960s
+98,98,Don't Touch Me,The Seely Style,Jeannie Seely,192960,0.896,0.383,0.0557,-15.546,105.85,0.197,1960s
+99,99,Don't Let Me Cross Over,Don't Let Me Cross Over,Carl Butler,177106,0.871,0.59,0.188,-12.253,113.907,0.521,1960s
+100,0,Every Which Way but Loose - 2009 Remaster,Number One Hits,Eddie Rabbitt,171653,0.458,0.598,0.483,-7.474,130.663,0.452,1970s
+101,1,"Luckenbach, Texas (Back to the Basics of Love)",Ultimate Waylon Jennings,Waylon Jennings,200493,0.704,0.684,0.45,-10.422,102.902,0.639,1970s
+102,2,Thank God I'm a Country Boy - Live,The Essential John Denver,John Denver,200466,0.656,0.409,0.621,-11.016,202.354,0.836,1970s
+103,3,Tulsa Time,20 Greatest Hits,Don Williams,192800,0.493,0.877,0.489,-15.244,103.886,0.929,1970s
+104,4,Kiss an Angel Good Mornin',The Essential Charley Pride,Charley Pride,123133,0.708,0.684,0.498,-10.836,131.855,0.905,1970s
+105,5,The Gambler,20 #1's: Classic Country,Various Artists,210679,0.408,0.682,0.532,-11.61,88.286,0.773,1970s
+106,6,Let Your Love Flow,Bellamy Brothers,The Bellamy Brothers,198760,0.0611,0.679,0.553,-14.687,109.071,0.946,1970s
+107,7,I Love,20th Century Masters: The Millennium Collection: Best Of Tom T. Hall,Tom T. Hall,125666,0.883,0.544,0.312,-12.146,91.974,0.505,1970s
+108,8,Y'all Come Back Saloon,Oak Ridge Boys Greatest Hits,The Oak Ridge Boys,174226,0.0994,0.684,0.417,-14.849,82.837,0.743,1970s
+109,9,Two More Bottles of Wine - 2003 Remaster,Quarter Moon in a Ten Cent Town (Expanded & Remastered),Emmylou Harris,186333,0.251,0.764,0.736,-7.571,134.336,0.96,1970s
+110,10,Lucille - 2006 Digital Remaster,Number Ones,Kenny Rogers,219360,0.412,0.65,0.286,-15.878,142.236,0.418,1970s
+111,11,"Mammas, Don't Let Your Babies Grow Up to Be Cowboys",The Essential Waylon Jennings,Waylon Jennings,152533,0.578,0.373,0.423,-11.642,187.477,0.527,1970s
+112,12,You Never Even Called Me By My Name,David Allan Coe - 16 Biggest Hits,David Allan Coe,314226,0.153,0.604,0.459,-13.19,105.908,0.505,1970s
+113,13,One Piece at a Time,One Piece At A Time,Johnny Cash,241813,0.685,0.721,0.539,-14.064,102.648,0.963,1970s
+114,14,Pure Love - Remastered,Ultimate Ronnie Milsap,Ronnie Milsap,140960,0.31,0.521,0.718,-9.102,151.216,0.849,1970s
+115,15,It Must Be Love - Single Version,20 Greatest Hits,Don Williams,146733,0.129,0.92,0.399,-17.627,110.824,0.966,1970s
+116,16,Blue Eyes Crying In the Rain,Red Headed Stranger,Willie Nelson,138600,0.928,0.626,0.04,-19.994,117.136,0.418,1970s
+117,17,Don't the Girls All Get Prettier at Closing Time,16 Biggest Hits,Mickey Gilley,177266,0.605,0.657,0.808,-8.564,89.918,0.926,1970s
+118,18,Rhinestone Cowboy,Greatest Hits,Glen Campbell,209306,0.118,0.601,0.711,-3.998,115.168,0.719,1970s
+119,19,Rose Colored Glasses,Rose Colored Glasses,John Conlee,200493,0.382,0.396,0.379,-14.236,114.447,0.368,1970s
+120,20,If I Said You Had A Beautiful Body Would You Hold It Against Me,Best Of The Bellamy Brothers,The Bellamy Brothers,192040,0.0334,0.741,0.508,-15.703,116.572,0.872,1970s
+121,21,Good Hearted Woman,Ultimate Waylon Jennings,Waylon Jennings,178733,0.387,0.41,0.568,-11.673,103.026,0.644,1970s
+122,22,Daydreams About Night Things,The Essential Ronnie Milsap,Ronnie Milsap,143333,0.57,0.639,0.53,-9.358,138.72,0.918,1970s
+123,23,Family Tradition,The Bocephus Box Set,"Hank Williams, Jr.",242960,0.0238,0.66,0.523,-12.068,126.342,0.794,1970s
+124,24,Marie Laveau,Super Hits,Bobby Bare,190773,0.867,0.599,0.535,-10.522,117.59,0.835,1970s
+125,25,The Most Beautiful Girl,Charlie Rich - 16 Biggest Hits,Charlie Rich,162866,0.702,0.566,0.409,-10.379,103.233,0.458,1970s
+126,26,East Bound and Down,The Essential Jerry Reed,Jerry Reed,167706,0.396,0.495,0.929,-9.373,121.348,0.788,1970s
+127,27,Ridin' My Thumb To Mexico,The Best Of Johnny Rodriguez 20th Century Masters The Millennium Collection,Johnny Rodriguez,126200,0.972,0.628,0.321,-9.718,90.259,0.666,1970s
+128,28,The Year That Clayton Delaney Died,20th Century Masters: The Millennium Collection: Best Of Tom T. Hall,Tom T. Hall,165293,0.588,0.659,0.456,-8.883,133.229,0.892,1970s
+129,29,Jolene,Jolene,Dolly Parton,161533,0.566,0.674,0.537,-10.971,110.578,0.809,1970s
+130,30,Take This Job and Shove It,Johnny Paycheck - 16 Biggest Hits,Johnny Paycheck,156666,0.556,0.763,0.364,-14.244,137.132,0.715,1970s
+131,31,"Take Me Home, Country Roads",The Essential John Denver,John Denver,190040,0.715,0.456,0.383,-9.516,82.026,0.67,1970s
+132,32,Some Broken Hearts Never Mend - Single Version,20 Greatest Hits,Don Williams,168360,0.228,0.633,0.433,-16.442,97.527,0.816,1970s
+133,33,Coal Miner's Daughter,20 #1's: Classic Country,Various Artists,181666,0.791,0.6,0.517,-9.567,136.521,0.645,1970s
+134,34,Let Me Be There,Gold,Olivia Newton-John,177986,0.281,0.559,0.673,-7.693,129.015,0.83,1970s
+135,35,Stranger,The Essential Johnny Duncan,Johnny Duncan,189786,0.121,0.57,0.555,-9.147,117.646,0.901,1970s
+136,36,Wasted Days And Wasted Nights,Before The Next Teardrop Falls,Freddy Fender,171761,0.481,0.702,0.409,-8.84,88.516,0.885,1970s
+137,37,Don't It Make My Brown Eyes Blue,Crystal Gayle: The Hits,Crystal Gayle,157933,0.714,0.675,0.49,-7.818,84.409,0.353,1970s
+138,38,"My Woman, My Woman, My Wife",Marty Robbins - 16 Biggest Hits,Marty Robbins,211106,0.927,0.429,0.317,-11.322,102.109,0.302,1970s
+139,39,"Louisiana Woman, Mississippi Man","Louisiana Woman, Mississippi Man",Conway Twitty,151731,0.477,0.62,0.711,-6.943,98.263,0.96,1970s
+140,40,For the Good Times,The Essential Ray Price,Ray Price,227786,0.76,0.352,0.204,-15.414,83.342,0.524,1970s
+141,41,What a Difference You've Made in My Life,The Essential Ronnie Milsap,Ronnie Milsap,239066,0.528,0.422,0.537,-10.214,96.198,0.43,1970s
+142,42,Southern Nights,Greatest Hits,Glen Campbell,179586,0.0376,0.651,0.937,-2.57,93.789,0.927,1970s
+143,43,Misty,Greatest Hits - Original Recordings,Ray Stevens,175933,0.187,0.591,0.551,-13.72,100.326,0.877,1970s
+144,44,Coat of Many Colors,Coat Of Many Colors,Dolly Parton,183666,0.93,0.624,0.257,-13.341,85.617,0.681,1970s
+145,45,Stop And Smell The Roses,Stop And Smell The Roses,Mac Davis,201600,0.232,0.528,0.421,-16.302,85.449,0.763,1970s
+146,46,Love In The Hot Afternoon,Ultimate Collection: Gene Watson,Gene Watson,201240,0.532,0.536,0.404,-11.265,112.682,0.29,1970s
+147,47,Help Me Make It Through The Night,The Best Of Sammi Smith,Sammi Smith,155533,0.605,0.559,0.35,-12.01,78.035,0.413,1970s
+148,48,You've Never Been This Far Before,Conway Twitty - 25 Number Ones,Conway Twitty,181932,0.694,0.469,0.235,-14.399,138.522,0.52,1970s
+149,49,Drinkin' My Baby (Off My Mind) - 2009 Remaster,Number One Hits,Eddie Rabbitt,145946,0.0764,0.614,0.706,-7.397,127.952,0.867,1970s
+150,50,Rub It In,"The Best Of Billy ""Crash"" Craddock",Billy 'Crash' Craddock,146800,0.404,0.759,0.543,-11.189,115.671,0.977,1970s
+151,51,Heaven's Just A Sin Away,Heaven's Just A Sin Away,The Kendalls,146466,0.775,0.56,0.593,-7.622,154.311,0.862,1970s
+152,52,Just Good Ol' Boys,The Ultimate Moe & Joe,Moe Bandy,155226,0.665,0.607,0.598,-8.875,151.233,0.733,1970s
+153,53,The Devil Went Down to Georgia,Million Mile Reflections,The Charlie Daniels Band,215066,0.131,0.517,0.535,-12.027,135.087,0.933,1970s
+154,54,Blanket On The Ground,Country Greats,Billie Jo Spears,215360,0.394,0.465,0.519,-11.819,86.6,0.881,1970s
+155,55,Rose Garden,Rose Garden,Lynn Anderson,175866,0.168,0.589,0.501,-11.665,131.064,0.969,1970s
+156,56,Shadows In The Moonlight,The Ultimate Collection (Deluxe Edition),Anne Murray,209733,0.00351,0.63,0.689,-5.927,104.683,0.422,1970s
+157,57,Here You Come Again,The Essential Dolly Parton,Dolly Parton,174466,0.568,0.537,0.573,-9.106,105.795,0.615,1970s
+158,58,Two Dollars in the Jukebox - 2008 Remaster,Rocky Mountain Music,Eddie Rabbitt,142773,0.067,0.759,0.621,-12.539,134.319,0.921,1970s
+159,59,If We're Not Back In Love By Monday,Ramblin' Fever,Merle Haggard,196000,0.813,0.696,0.193,-16.637,76.55,0.701,1970s
+160,60,The Grand Tour,George Jones - 16 Biggest Hits,George Jones,187373,0.944,0.458,0.275,-11.498,88.718,0.449,1970s
+161,61,"When You're Hot, You're Hot",The Essential Jerry Reed,Jerry Reed,139560,0.354,0.788,0.832,-10.783,101.045,0.91,1970s
+162,62,Before the Next Teardrop Falls,The Freddy Fender Collection,Freddy Fender,158306,0.748,0.799,0.345,-11.52,90.417,0.776,1970s
+163,63,Lonely Women Make Good Lovers,Greatest Hits,Bob Luman,193960,0.712,0.652,0.484,-10.389,121.604,0.636,1970s
+164,64,The Fightin' Side Of Me,HAG: The Hits Volume 2,Merle Haggard,169346,0.368,0.754,0.497,-11.14,95.502,0.789,1970s
+165,65,Delta Dawn,Delta Dawn,Tanya Tucker,178400,0.668,0.549,0.424,-12.892,76.783,0.509,1970s
+166,66,She's Actin' Single (I'm Drinkin' Doubles),RCA Country Legends,Gary Stewart,171093,0.567,0.708,0.482,-10.366,109.41,0.699,1970s
+167,67,The Door Is Always Open,Anthology,Dave and Sugar,163800,0.499,0.455,0.479,-10.417,188.482,0.826,1970s
+168,68,The Wurlitzer Prize (I Don't Want to Get Over You),The Essential Waylon Jennings,Waylon Jennings,128253,0.861,0.597,0.346,-12.679,118.704,0.499,1970s
+169,69,Amos Moses,The Essential Jerry Reed,Jerry Reed,139760,0.526,0.75,0.711,-10.633,105.636,0.961,1970s
+170,70,Her Name Is...,Anniversary (Ten Years Of Hits),George Jones,138800,0.307,0.565,0.336,-16.387,82.294,0.796,1970s
+171,71,Blue Skies,Stardust,Willie Nelson,213440,0.207,0.381,0.335,-12.797,83.792,0.259,1970s
+172,72,Man in Black,Man In Black,Johnny Cash,172986,0.589,0.676,0.58,-14.217,95.358,0.89,1970s
+173,73,Dueling Banjos,Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music,Eric Weissberg,194879,0.409,0.417,0.484,-8.781,149.79,0.501,1970s
+174,74,It's Not Love (But It's Not Bad),The Very Best Of Merle Haggard,Merle Haggard,201386,0.189,0.659,0.281,-13.564,108.287,0.518,1970s
+175,75,Sleeping Single In A Double Bed - Single Version,Ultimate Collection: Barbara Mandrell,Barbara Mandrell,138853,0.454,0.715,0.687,-9.408,139.375,0.974,1970s
+176,76,Paper Roses,20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond,Donny Osmond,158973,0.272,0.359,0.504,-10.555,114.172,0.73,1970s
+177,77,Love Is Like a Butterfly,The Essential Dolly Parton,Dolly Parton,140173,0.721,0.686,0.187,-12.062,89.616,0.772,1970s
+178,78,I Can Help,The Best Of Billy Swan,Billy Swan,238333,0.511,0.471,0.675,-9.07,125.313,0.53,1970s
+179,79,Bloody Mary Morning,Phases And Stages,Willie Nelson,168933,0.586,0.601,0.766,-13.262,130.14,0.856,1970s
+180,80,Till the End,Till The End,Vern Gosdin,166000,0.411,0.547,0.265,-16.803,93.106,0.385,1970s
+181,81,This Time,The Essential Waylon Jennings,Waylon Jennings,144733,0.0884,0.448,0.597,-12.201,98.494,0.514,1970s
+182,82,Out Of My Head And Back In My Bed,The Definitive Collection,Loretta Lynn,160920,0.284,0.625,0.69,-10.424,132.446,0.915,1970s
+183,83,Pass Me By,20 Greatest Hits,Johnny Rodriguez,157746,0.678,0.661,0.4,-6.499,101.025,0.397,1970s
+184,84,Don't Take It Away - Single Version,Gold,Conway Twitty,221400,0.517,0.721,0.302,-16.424,88.461,0.433,1970s
+185,85,The Power of Positive Drinkin',The Essential Mickey Gilley,Mickey Gilley,145253,0.629,0.535,0.912,-8.18,181.036,0.906,1970s
+186,86,(If Loving You Is Wrong) I Don't Want To Be Right,Ultimate Collection: Barbara Mandrell,Barbara Mandrell,185013,0.0341,0.621,0.536,-10.935,74.256,0.72,1970s
+187,87,Barstool Mountain,The Very Best Of...Volume 1,Moe Bandy,169000,0.23,0.73,0.225,-15.429,123.61,0.596,1970s
+188,88,You and Me,The Essential Tammy Wynette,Tammy Wynette,200426,0.584,0.458,0.234,-14.843,77.317,0.197,1970s
+189,89,Linda On My Mind - Single Version,Conway Twitty's Greatest Hits Volume II,Conway Twitty,162693,0.314,0.383,0.292,-15.23,104.789,0.593,1970s
+190,90,Goin' Steady,Golden Hits,Faron Young,125266,0.47,0.492,0.428,-13.132,165.776,0.871,1970s
+191,91,Mother Country Music,Till The End,Vern Gosdin,173853,0.189,0.562,0.448,-13.113,132.622,0.603,1970s
+192,92,"Midnight, Me And The Blues",All His Great Hits,Mel Tillis,170200,0.843,0.647,0.282,-15.042,132.169,0.753,1970s
+193,93,'Til I Get It Right,The Essential Tammy Wynette,Tammy Wynette,157933,0.843,0.528,0.146,-13.271,133.894,0.336,1970s
+194,94,What Goes On When The Sun Goes Down,The Essential Ronnie Milsap,Ronnie Milsap,172800,0.661,0.693,0.484,-10.004,132.879,0.902,1970s
+195,95,I Can't Believe She Gives It All To Me - Single Version,Gold,Conway Twitty,143373,0.56,0.471,0.195,-16.353,91.817,0.47,1970s
+196,0,"Forever and Ever, Amen",Top 10,Randy Travis,212586,0.303,0.701,0.68,-8.492,90.607,0.704,1980s
+197,1,Mountain Music,Ultimate Alabama 20 # 1 Hits,Alabama,218613,0.119,0.467,0.526,-9.982,109.555,0.753,1980s
+198,2,Baby's Got Her Blue Jeans On,Let It Roll,Mel McDaniel,179653,0.237,0.871,0.714,-6.413,106.797,0.962,1980s
+199,3,Fishin' in the Dark,Rhino Hi-Five: Nitty Gritty Dirt Band,Nitty Gritty Dirt Band,202786,0.198,0.771,0.283,-16.326,77.756,0.906,1980s
+200,4,I'm No Stranger to the Rain,Greatest Hits,Keith Whitley,216066,0.401,0.671,0.44,-11.15,88.115,0.489,1980s
+201,5,Tight Fittin' Jeans,20th Century Masters: The Millennium Collection: Best Of Conway Twitty,Conway Twitty,170266,0.191,0.707,0.546,-11.398,102.417,0.861,1980s
+202,6,Amarillo By Morning,Strait From The Heart,George Strait,173466,0.264,0.606,0.361,-16.031,121.059,0.621,1980s
+203,7,I Love a Rainy Night,All Time Greatest Hits,Eddie Rabbitt,191066,0.122,0.685,0.718,-7.724,131.463,0.958,1980s
+204,8,I'm Gonna Hire A Wino To Decorate Our Home,The Very Best Of David Frizzell,David Frizzell,239386,0.465,0.606,0.456,-12.449,162.438,0.821,1980s
+205,9,Seven Spanish Angels (with Ray Charles),Friendship,Ray Charles,231026,0.373,0.549,0.287,-13.135,132.439,0.382,1980s
+206,10,Deeper Than the Holler,Old 8 x 10,Randy Travis,219080,0.29,0.647,0.482,-8.591,142.648,0.437,1980s
+207,11,40 Hour Week (For A Livin'),Greatest Hits,Alabama,201026,0.123,0.578,0.44,-14.644,85.213,0.439,1980s
+208,12,Slow Hand,Southern Comfort,Conway Twitty,174640,0.22,0.796,0.337,-18.041,106.923,0.858,1980s
+209,13,Elvira,Fancy Free,The Oak Ridge Boys,225626,0.188,0.825,0.285,-17.491,126.946,0.86,1980s
+210,14,Louisiana Saturday Night,I'm Countryfied,Mel McDaniel,144186,0.532,0.686,0.622,-7.31,163.245,0.982,1980s
+211,15,When You Say Nothing at All,Greatest Hits,Keith Whitley,222493,0.721,0.673,0.346,-12.803,80.012,0.396,1980s
+212,16,Lookin' for Love,Lookin' For Love,Johnny Lee,220440,0.586,0.74,0.394,-15.126,123.689,0.78,1980s
+213,17,Diggin' Up Bones,Top 10,Randy Travis,179373,0.361,0.703,0.575,-8.215,85.672,0.869,1980s
+214,18,Killin' Time,Ultimate Clint Black,Clint Black,168000,0.455,0.714,0.522,-9.773,121.312,0.69,1980s
+215,19,Grandpa (Tell Me 'Bout The Good Old Days),I Will Stand By You - The Essential Collection,The Judds,254640,0.426,0.565,0.456,-8.124,201.644,0.588,1980s
+216,20,Drinkin' My Baby Goodbye,Me And The Boys,The Charlie Daniels Band,221706,0.364,0.536,0.907,-10.249,177.352,0.893,1980s
+217,21,Good Ole Boys Like Me - Single Version,20 Greatest Hits,Don Williams,251600,0.579,0.715,0.238,-21.114,108.131,0.486,1980s
+218,22,I'd Love To Lay You Down,Love Songs,Conway Twitty,199600,0.572,0.638,0.377,-15.64,81.911,0.778,1980s
+219,23,Meet Me In Montana,Won't Be Blue Anymore,Dan Seals,236626,0.393,0.661,0.389,-12.292,124.147,0.515,1980s
+220,24,Leaving Louisiana In The Broad Daylight,Oak Ridge Boys Greatest Hits,The Oak Ridge Boys,182200,0.247,0.597,0.628,-14.06,95.33,0.77,1980s
+221,25,Guitar Town,Guitar Town,Steve Earle,155266,0.229,0.661,0.496,-15.53,165.549,0.948,1980s
+222,26,"Lord, I Hope This Day Is Good - Single Version",Lord I Hope This Day Is Good,Don Williams,249906,0.252,0.526,0.388,-17.983,173.82,0.702,1980s
+223,27,The One I Loved Back Then (The Corvette Song),Super Hits/ Super Hits Vol. II/George & Tammy Super Hits,George Jones,149333,0.519,0.636,0.479,-11.555,159.433,0.935,1980s
+224,28,All My Rowdy Friends Are Coming Over Tonight,"Greatest Hits, Vol. 2","Hank Williams, Jr.",178840,0.13,0.607,0.904,-7.693,146.831,0.877,1980s
+225,29,Redneck Girl,"Greatest Hits, Vol. 1",The Bellamy Brothers,208493,0.0831,0.759,0.554,-15.167,126.994,0.913,1980s
+226,30,Roll On (Eighteen Wheeler),Roll On,Alabama,262626,0.115,0.583,0.456,-19.116,131.815,0.639,1980s
+227,31,On the Other Hand,Storms of Life,Randy Travis,186346,0.175,0.657,0.415,-9.915,96.03,0.347,1980s
+228,32,You're The Reason God Made Oklahoma,The Very Best Of David Frizzell & Shelly West,David Frizzell,204386,0.526,0.467,0.348,-11.972,97.431,0.399,1980s
+229,33,Everything That Glitters (Is Not Gold),Won't Be Blue Anymore,Dan Seals,292626,0.726,0.654,0.259,-16.728,112.1,0.466,1980s
+230,34,I Believe In You,20 Greatest Hits,Don Williams,245573,0.835,0.659,0.221,-20.219,117.945,0.56,1980s
+231,35,American Made,Oak Ridge Boys Collection,The Oak Ridge Boys,159866,0.108,0.696,0.527,-14.275,128.962,0.974,1980s
+232,36,The Fireman,Does Fort Worth Ever Cross Your Mind,George Strait,154360,0.137,0.664,0.601,-13.379,168.979,0.934,1980s
+233,37,All My Rowdy Friends (Have Settled Down),Greatest Hits,"Hank Williams, Jr.",240373,0.23,0.711,0.542,-10.319,127.002,0.813,1980s
+234,38,Country Club,Country Club,Travis Tritt,190800,0.194,0.805,0.57,-8.215,126.478,0.76,1980s
+235,39,That's the Way Love Goes,The Essential Merle Haggard: The Epic Years,Merle Haggard,181426,0.549,0.81,0.268,-16.733,99.686,0.625,1980s
+236,40,I Wouldn't Have Missed It for the World,Ultimate Ronnie Milsap,Ronnie Milsap,215026,0.0138,0.631,0.626,-8.995,114.192,0.496,1980s
+237,41,Old Hippie,Best Of The Bellamy Brothers,The Bellamy Brothers,247040,0.038,0.691,0.497,-13.248,103.893,0.701,1980s
+238,42,The Ride,David Allan Coe - 16 Biggest Hits,David Allan Coe,186866,0.52,0.531,0.381,-13.142,167.117,0.554,1980s
+239,43,Streets of Bakersfield,Buenas Noches From a Lonely Room,Dwight Yoakam,168213,0.0399,0.74,0.703,-11.87,106.878,0.816,1980s
+240,44,Why Not Me,Why Not Me,The Judds,211266,0.502,0.732,0.667,-9.278,125.6,0.727,1980s
+241,45,"I Was Country When Country Wasn't Cool - Live At The Roy Acuff Theater Nashville, TN, 1981",After All These Years: The Collection,Barbara Mandrell,220199,0.0759,0.597,0.473,-14.271,105.031,0.533,1980s
+242,46,Big City,The Essential Merle Haggard: The Epic Years,Merle Haggard,179333,0.275,0.707,0.401,-14.222,136.188,0.602,1980s
+243,47,I Told You So,Top 10,Randy Travis,219946,0.347,0.633,0.325,-9.05,79.079,0.229,1980s
+244,48,A Country Boy Can Survive,The Bocephus Box Set,"Hank Williams, Jr.",255000,0.144,0.688,0.459,-9.353,75.184,0.493,1980s
+245,49,"Theme from ""The Dukes of Hazzard"" (Good Ol' Boys)",The Dukes Of Hazzard,Original Soundtrack,126586,0.108,0.589,0.848,-10.998,147.564,0.913,1980s
+246,50,He Stopped Loving Her Today,George Jones - 16 Biggest Hits,George Jones,197400,0.785,0.333,0.232,-14.605,144.788,0.398,1980s
+247,51,I Think I'll Just Stay Here And Drink,Down Every Road 1962-1994,Merle Haggard,271666,0.0999,0.609,0.681,-11.491,172.609,0.895,1980s
+248,52,Tennessee Flat Top Box,The Very Best Of Rosanne Cash,Rosanne Cash,195080,0.216,0.618,0.767,-12.015,97.522,0.964,1980s
+249,53,If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band),Ultimate Alabama 20 # 1 Hits,Alabama,203240,0.115,0.522,0.651,-9.817,111.01,0.818,1980s
+250,54,Jose Cuervo,West By West,Shelly West,162840,0.305,0.697,0.588,-9.416,115.339,0.816,1980s
+251,55,Eighteen Wheels And A Dozen Roses,Untasted Honey,Kathy Mattea,203400,0.0926,0.659,0.571,-13.609,139.27,0.961,1980s
+252,56,Are the Good Times Really Over (I Wish a Buck Was Still Silver),The Essential Merle Haggard: The Epic Years,Merle Haggard,253293,0.808,0.616,0.217,-15.439,130.613,0.141,1980s
+253,57,The Cowboy Rides Away,"George Strait's Greatest Hits, Volume Two",George Strait,202306,0.0558,0.686,0.332,-16.984,109.067,0.64,1980s
+254,58,Who's Gonna Fill Their Shoes,Super Hits,George Jones,195133,0.672,0.441,0.262,-13.435,138.327,0.317,1980s
+255,59,Mama He's Crazy,Why Not Me,The Judds,194760,0.34,0.728,0.398,-11.036,95.959,0.425,1980s
+256,60,Honky Tonk Man,"Guitars, Cadillacs, Etc., Etc.",Dwight Yoakam,167426,0.126,0.673,0.84,-5.114,144.184,0.749,1980s
+257,61,The Bluest Eyes In Texas,Big Dreams In A Small Town,Restless Heart,287000,0.496,0.643,0.525,-10.988,113.907,0.552,1980s
+258,62,Stand By Me - Single Version,Ten Years Of Hits,Mickey Gilley,215106,0.699,0.666,0.42,-12.28,90.794,0.34,1980s
+259,63,Two Dozen Roses,Super Hits,Shenandoah,223613,0.327,0.695,0.502,-12.01,117.083,0.543,1980s
+260,64,Common Man,Classics,John Conlee,163106,0.546,0.792,0.605,-8.008,128.789,0.899,1980s
+261,65,One Promise Too Late,What Am I Gonna Do About You,Reba McEntire,205866,0.449,0.644,0.304,-15.664,79.099,0.68,1980s
+262,66,Pancho and Lefty,The Essential Merle Haggard: The Epic Years,Merle Haggard,287626,0.796,0.693,0.454,-12.44,122.641,0.54,1980s
+263,67,Ocean Front Property,Ocean Front Property,George Strait,188533,0.111,0.656,0.326,-15.756,78.298,0.787,1980s
+264,68,Somebody's Knockin',The Best Of Terri Gibbs,Terri Gibbs,181666,0.233,0.699,0.515,-10.816,95.044,0.734,1980s
+265,69,Don't Close Your Eyes,Greatest Hits,Keith Whitley,251560,0.723,0.618,0.271,-13.695,78.334,0.264,1980s
+266,70,"Guitars, Cadillacs","Guitars, Cadillacs, Etc., Etc.",Dwight Yoakam,185239,0.26,0.581,0.917,-3.519,171.663,0.86,1980s
+267,71,Holding Her and Loving You,The Essential Earl Thomas Conley,Earl Thomas Conley,188720,0.323,0.619,0.392,-11.967,125.868,0.334,1980s
+268,72,Seven Year Ache,The Very Best Of Rosanne Cash,Rosanne Cash,194853,0.475,0.747,0.568,-8.651,121.615,0.684,1980s
+269,73,I Got Mexico,Best Of Eddy Raven,Eddy Raven,146466,0.366,0.82,0.529,-10.08,112.114,0.853,1980s
+270,74,Nobody,Just Sylvia,Sylvia,199200,0.249,0.764,0.448,-12.371,124.226,0.868,1980s
+271,75,All My Ex's Live In Texas,Ocean Front Property,George Strait,200840,0.241,0.764,0.336,-16.024,130.565,0.697,1980s
+272,76,My Favorite Memory,The Essential Merle Haggard: The Epic Years,Merle Haggard,185573,0.874,0.452,0.158,-14.317,129.822,0.134,1980s
+273,77,I Can Tell By the Way You Dance,"The Voice Box, Vol. 1",Vern Gosdin,161493,0.0972,0.755,0.593,-11.093,109.812,0.919,1980s
+274,78,Coal Miner's Daughter - Single Version,Coal Miner's Daughter,Loretta Lynn,180960,0.836,0.604,0.354,-14.07,137.349,0.635,1980s
+275,79,Love Is Alive,Why Not Me,The Judds,238506,0.233,0.698,0.381,-11.281,86.302,0.365,1980s
+276,80,Any Day Now - Remastered,Ultimate Ronnie Milsap,Ronnie Milsap,222426,0.0849,0.663,0.561,-7.971,102.911,0.605,1980s
+277,81,I Loved 'Em Every One,Super Hits,T.G. Sheppard,220426,0.216,0.66,0.688,-12.563,87.126,0.718,1980s
+278,82,Unwound,Strait Country,George Strait,145160,0.124,0.715,0.461,-14.473,139.291,0.775,1980s
+279,83,Little Rock,Whoever's In New England,Reba McEntire,187066,0.38,0.662,0.466,-14.705,140.137,0.831,1980s
+280,84,Islands In The Stream,A Love Song Collection,Kenny Rogers,249880,0.427,0.589,0.641,-5.533,204.003,0.795,1980s
+281,85,"Twinkle, Twinkle Lucky Star",The Essential Merle Haggard: The Epic Years,Merle Haggard,203600,0.841,0.659,0.34,-14.976,81.64,0.694,1980s
+282,86,Tennessee River,Ultimate Alabama 20 # 1 Hits,Alabama,183120,0.289,0.392,0.608,-9.797,95.381,0.565,1980s
+283,87,Sunday In the South,Super Hits,Shenandoah,241026,0.697,0.615,0.335,-12.372,90.956,0.441,1980s
+284,88,Highway 40 Blues,16 Biggest Hits,Ricky Skaggs,188893,0.0582,0.653,0.657,-11.966,117.972,0.96,1980s
+285,89,Why Does It Have to Be (Wrong or Right),Wheels,Restless Heart,180800,0.23,0.756,0.448,-13.605,88.945,0.82,1980s
+286,90,Fool Hearted Memory,Strait Out Of The Box,George Strait,159666,0.317,0.567,0.57,-9.926,88.851,0.645,1980s
+287,91,Daddy's Hands,Milestones- Greatest Hits,Holly Dunn,209466,0.54,0.551,0.269,-9.782,76.511,0.476,1980s
+288,92,Born To Boogie,35 Biggest Hits,"Hank Williams, Jr.",164653,0.0848,0.573,0.94,-4.486,90.286,0.878,1980s
+289,93,80's Ladies,80s Ladies,K.T. Oslin,251293,0.207,0.594,0.368,-11.504,98.358,0.297,1980s
+290,94,Only One You,Super Hits,T.G. Sheppard,202226,0.49,0.813,0.62,-12.454,95.274,0.97,1980s
+291,95,Friday Night Blues,Friday Night Blues,John Conlee,198453,0.699,0.811,0.497,-10.741,107.636,0.603,1980s
+292,96,Baby's Gotten Good At Goodbye,Beyond The Blue Neon,George Strait,210800,0.587,0.468,0.41,-11.782,183.898,0.519,1980s
+293,97,My Heroes Have Always Been Cowboys,The Essential Willie Nelson,Willie Nelson,183453,0.181,0.387,0.322,-13.348,114.762,0.258,1980s
+294,98,Love in the First Degree,Feels So Right,Alabama,199200,0.366,0.626,0.411,-11.162,103.368,0.665,1980s
+295,99,Same Ole Me,Still The Same Ole Me,George Jones,170733,0.634,0.724,0.288,-13.873,109.431,0.403,1980s
+296,0,Check Yes Or No,Strait Out Of The Box,George Strait,200666,0.0551,0.708,0.524,-12.644,111.482,0.69,1990s
+297,1,Should've Been A Cowboy,Toby Keith,Toby Keith,211306,0.471,0.619,0.672,-7.786,133.402,0.694,1990s
+298,2,Bye-Bye,I'm Alright,Jo Dee Messina,200960,0.183,0.644,0.868,-3.98,134.38,0.642,1990s
+299,3,Where The Green Grass Grows,Everywhere,Tim McGraw,201600,0.198,0.479,0.698,-7.914,159.699,0.673,1990s
+300,4,She's In Love With The Boy - Single Version,Trisha Yearwood,Trisha Yearwood,248200,0.522,0.783,0.698,-8.268,124.996,0.758,1990s
+301,5,Chattahoochee,A Lot About Livin' (And A Little 'Bout Love),Alan Jackson,148160,0.362,0.606,0.706,-9.665,174.533,0.819,1990s
+302,6,Strawberry Wine,Did I Shave My Legs For This?,Deana Carter,291533,0.314,0.572,0.449,-6.566,122.632,0.207,1990s
+303,7,The Night The Lights Went Out In Georgia,For My Broken Heart,Reba McEntire,257266,0.52,0.428,0.51,-11.695,169.967,0.393,1990s
+304,8,Neon Moon,Brand New Man,Brooks & Dunn,261226,0.596,0.735,0.488,-10.56,102.383,0.452,1990s
+305,9,Any Man Of Mine,The Woman In Me,Shania Twain,246760,0.207,0.592,0.725,-8.698,78.235,0.784,1990s
+306,10,Fancy,Rumor Has It,Reba McEntire,299733,0.226,0.674,0.517,-11.225,94.98,0.482,1990s
+307,11,Sold (The Grundy County Auction Incident),John Michael Montgomery,John Michael Montgomery,152186,0.108,0.771,0.848,-7.365,115.642,0.803,1990s
+308,12,Dust On The Bottle,Out With A Bang,David Lee Murphy,224666,0.0237,0.736,0.614,-11.124,99.942,0.858,1990s
+309,13,When You Say Nothing At All,Now That I've Found You: A Collection,Alison Krauss,260800,0.752,0.514,0.243,-12.348,171.816,0.388,1990s
+310,14,I'm in a Hurry (And Don't Know Why),American Pride,Alabama,168640,0.198,0.757,0.69,-8.645,128.654,0.867,1990s
+311,15,Livin' On Love,Who I Am,Alan Jackson,229560,0.141,0.724,0.55,-9.767,118.557,0.67,1990s
+312,16,Write This Down,Always Never The Same,George Strait,219600,0.127,0.729,0.688,-7.468,123.867,0.671,1990s
+313,17,My Maria,Borderline,Brooks & Dunn,210866,0.117,0.693,0.705,-6.753,125.409,0.912,1990s
+314,18,Gone Country,Who I Am,Alan Jackson,260493,0.0875,0.673,0.679,-7.337,125.607,0.612,1990s
+315,19,XXX's And OOO's (An American Girl),Thinkin' About You,Trisha Yearwood,167906,0.176,0.711,0.642,-8.909,125.831,0.762,1990s
+316,20,Time Marches On,Time Marches On,Tracy Lawrence,185360,0.563,0.856,0.517,-9.232,118.399,0.479,1990s
+317,21,She Don't Know She's Beautiful,Haunted Heart,Sammy Kershaw,174626,0.35,0.764,0.646,-9.349,116.115,0.886,1990s
+318,22,Independence Day,The Way That I Am,Martina McBride,204626,0.257,0.712,0.63,-6.202,118.378,0.768,1990s
+319,23,Brand New Man,Brand New Man,Brooks & Dunn,178893,0.138,0.696,0.648,-7.784,127.493,0.877,1990s
+320,24,Little Bitty,Everything I Love,Alan Jackson,158626,0.151,0.571,0.818,-6.539,163.045,0.728,1990s
+321,25,She's Got It All,I Will Stand,Kenny Chesney,205093,0.093,0.709,0.811,-6.603,132.728,0.735,1990s
+322,26,Blame It on Your Heart,Only What I Feel,Patty Loveless,213693,0.643,0.624,0.808,-7.739,149.522,0.88,1990s
+323,27,Down On The Farm,Not A Moment Too Soon,Tim McGraw,178866,0.115,0.721,0.735,-11.849,127.575,0.961,1990s
+324,28,There's Your Trouble,Wide Open Spaces,The Chicks,193064,0.481,0.737,0.869,-5.433,126.628,0.898,1990s
+325,29,That Ain't My Truck,A Thousand Memories,Rhett Akins,243106,0.232,0.64,0.788,-9.012,128.961,0.774,1990s
+326,30,If I Could Make a Living,If I Could Make A Living,Clay Walker,134373,0.188,0.599,0.75,-6.767,156.002,0.909,1990s
+327,31,I'm Alright,I'm Alright,Jo Dee Messina,199040,0.191,0.676,0.733,-7.745,98.234,0.591,1990s
+328,32,Watermelon Crawl,No Ordinary Man,Tracy Byrd,181973,0.173,0.759,0.723,-9.315,136.746,0.962,1990s
+329,33,Wild One,Take Me as I Am,Faith Hill,165013,0.185,0.694,0.654,-9.148,135.787,0.689,1990s
+330,34,How Forever Feels,Everywhere We Go,Kenny Chesney,188200,0.0986,0.723,0.674,-7.427,124.9,0.61,1990s
+331,35,We Danced Anyway,Did I Shave My Legs For This?,Deana Carter,202533,0.502,0.629,0.721,-3.722,94.054,0.651,1990s
+332,36,Boot Scootin' Boogie,Brand New Man,Brooks & Dunn,197640,0.272,0.667,0.776,-7.292,130.669,0.899,1990s
+333,37,Just To See You Smile,Everywhere,Tim McGraw,215173,0.127,0.492,0.823,-8.526,94.342,0.702,1990s
+334,38,If I Didn't Have You,On the Other Hand - All the Number Ones,Randy Travis,186746,0.164,0.674,0.578,-10.919,172.498,0.961,1990s
+335,39,"Honey, I'm Home",Come On Over,Shania Twain,213200,0.12,0.645,0.747,-5.747,80.287,0.815,1990s
+336,40,Carrying Your Love With Me,Carrying Your Love With Me,George Strait,232426,0.22,0.629,0.479,-10.608,138.231,0.345,1990s
+337,41,Life's a Dance,Greatest Hits,John Michael Montgomery,188840,0.403,0.64,0.533,-9.846,135.224,0.652,1990s
+338,42,Meet In the Middle,Diamond Rio,Diamond Rio,198333,0.663,0.746,0.443,-11.305,91.11,0.554,1990s
+339,43,Maybe It Was Memphis,Put Yourself In My Place,Pam Tillis,239173,0.437,0.495,0.695,-6.929,73.656,0.496,1990s
+340,44,Blue Clear Sky,Blue Clear Sky,George Strait,174866,0.202,0.638,0.819,-6.646,124.062,0.706,1990s
+341,45,Chasin' That Neon Rainbow,Here In The Real World,Alan Jackson,185373,0.21,0.726,0.565,-10.355,149.004,0.849,1990s
+342,46,Hard Workin' Man,Hard Workin' Man,Brooks & Dunn,178493,0.333,0.692,0.769,-9.363,151.503,0.727,1990s
+343,47,Wide Open Spaces,Wide Open Spaces,The Chicks,223832,0.577,0.563,0.544,-6.102,179.351,0.602,1990s
+344,48,T-R-O-U-B-L-E,T-R-O-U-B-L-E,Travis Tritt,180160,0.0133,0.297,0.982,-4.326,179.311,0.793,1990s
+345,49,A Little Less Talk And A Lot More Action,Toby Keith,Toby Keith,170546,0.282,0.755,0.808,-7.367,124.976,0.933,1990s
+346,50,Pickup Man,Third Rock From The Sun,Joe Diffie,216200,0.432,0.713,0.692,-8.554,140.561,0.884,1990s
+347,51,I'm From The Country - Single Version,I'm From The Country,Tracy Byrd,213973,0.206,0.687,0.898,-3.93,129.542,0.952,1990s
+348,52,Daddy's Money,Ricochet,Ricochet,183493,0.189,0.698,0.861,-4.756,134.726,0.941,1990s
+349,53,Straight Tequila Night,Seminole Wind,John Anderson,173866,0.134,0.64,0.639,-10.11,109.263,0.593,1990s
+350,54,"I Like It, I Love It",All I Want,Tim McGraw,205706,0.0196,0.643,0.961,-5.298,124.027,0.96,1990s
+351,55,Be My Baby Tonight,Kickin' It Up,John Michael Montgomery,172200,0.215,0.632,0.773,-7.956,156.88,0.901,1990s
+352,56,She's Not the Cheatin' Kind,Waitin' On Sundown,Brooks & Dunn,207293,0.0882,0.706,0.647,-9.77,110.563,0.744,1990s
+353,57,Lesson In Leavin',I'm Alright,Jo Dee Messina,220200,0.273,0.612,0.804,-7.275,80.771,0.841,1990s
+354,58,Here's a Quarter (Call Someone Who Cares),It's All About to Change,Travis Tritt,152333,0.304,0.648,0.572,-7.494,112.423,0.598,1990s
+355,59,What Part of No,Watch Me,Lorrie Morgan,164293,0.434,0.72,0.531,-9.675,129.979,0.831,1990s
+356,60,"Tall, Tall Trees",The Greatest Hits Collection,Alan Jackson,147640,0.204,0.676,0.815,-6.192,145.969,0.965,1990s
+357,61,Bubba Shot The Jukebox,Longnecks & Short Stories,Mark Chesnutt,185840,0.307,0.544,0.648,-8.454,165.484,0.866,1990s
+358,62,No One Needs To Know,The Woman In Me,Shania Twain,183960,0.108,0.663,0.525,-9.674,134.748,0.731,1990s
+359,63,Wish I Didn't Know Now,Toby Keith,Toby Keith,206840,0.448,0.799,0.707,-8.464,116.922,0.822,1990s
+360,64,Does He Love You,"Reba McEntire's Greatest Hits, Volume Two",Reba McEntire,260399,0.37,0.449,0.434,-10.657,144.664,0.259,1990s
+361,65,Better Things To Do,Terri Clark,Terri Clark,188133,0.105,0.569,0.782,-5.868,150.631,0.595,1990s
+362,66,Every Light In The House,Dreamin' Out Loud,Trace Adkins,179600,0.539,0.637,0.472,-7.295,129.236,0.349,1990s
+363,67,Tell Me Why,Tell Me Why,Wynonna,230640,0.00746,0.621,0.802,-6.717,141.612,0.81,1990s
+364,68,I Can Still Make Cheyenne,Blue Clear Sky,George Strait,256066,0.68,0.585,0.39,-10.233,109.514,0.237,1990s
+365,69,I'm Gonna Be Somebody,Country Club,Travis Tritt,244933,0.173,0.563,0.668,-6.666,76.406,0.543,1990s
+366,70,John Deere Green,Honky Tonk Attitude,Joe Diffie,272066,0.11,0.703,0.834,-5.054,130.391,0.722,1990s
+367,71,Ready to Run,Fly,The Chicks,231293,0.245,0.644,0.644,-7.542,98.746,0.293,1990s
+368,72,Summertime Blues,Who I Am,Alan Jackson,192866,0.262,0.604,0.807,-8.697,161.0,0.968,1990s
+369,73,The Shake,Be Good At It,Neal McCoy,213333,0.0755,0.677,0.892,-5.709,145.921,0.898,1990s
+370,74,It Matters to Me,It Matters to Me,Faith Hill,197666,0.567,0.613,0.355,-8.218,135.622,0.129,1990s
+371,75,Small Town Saturday Night,Past The Point Of Rescue,Hal Ketchum,177986,0.218,0.627,0.697,-6.61,154.086,0.933,1990s
+372,76,Don't Let Our Love Start Slippin' Away,I Still Believe In You,Vince Gill,224800,0.42,0.736,0.719,-9.311,113.228,0.657,1990s
+373,77,You Were Mine,Wide Open Spaces,The Chicks,217807,0.342,0.542,0.346,-6.598,139.856,0.173,1990s
+374,78,No News,Lonestar,Lonestar,173600,0.35,0.741,0.683,-5.866,116.301,0.86,1990s
+375,79,One More Last Chance,I Still Believe In You,Vince Gill,191200,0.411,0.525,0.878,-8.677,176.249,0.963,1990s
+376,80,Thinkin' About You,Thinkin' About You,Trisha Yearwood,203693,0.551,0.614,0.543,-9.121,91.621,0.639,1990s
+377,81,Fast as You,This Time,Dwight Yoakam,285200,0.000479,0.628,0.801,-7.926,125.954,0.843,1990s
+378,82,No Place That Far,No Place That Far,Sara Evans,217400,0.504,0.547,0.373,-7.336,132.741,0.182,1990s
+379,83,It's A Little Too Late - 1996 Greatest Hits Version,Greatest Hits: Mark Chesnutt,Mark Chesnutt,163560,0.317,0.512,0.909,-7.505,172.975,0.791,1990s
+380,84,Shut Up and Kiss Me,Stones In The Road,Mary Chapin Carpenter,220640,0.537,0.777,0.535,-11.894,119.935,0.963,1990s
+381,85,No Doubt About It,No Doubt About It,Neal McCoy,227640,0.22,0.621,0.469,-10.438,144.665,0.511,1990s
+382,86,Guys Do It All the Time,Ten Thousand Angels,Mindy McCready,191800,0.0594,0.551,0.794,-5.995,165.813,0.587,1990s
+383,87,I Just Want To Dance With You,One Step At A Time,George Strait,210866,0.439,0.715,0.469,-8.674,113.991,0.502,1990s
+384,88,You Ain't Much Fun,Boomtown,Toby Keith,147026,0.229,0.771,0.675,-7.9,138.322,0.757,1990s
+385,89,No One Else On Earth,Wynonna,Wynonna,240706,0.427,0.788,0.736,-9.176,96.687,0.848,1990s
+386,90,Hillbilly Shoes,Tattoos & Scars,Montgomery Gentry,192693,0.0332,0.655,0.837,-6.072,115.938,0.708,1990s
+387,91,That's My Story,Extremes,Collin Raye,182960,0.538,0.642,0.834,-4.4,137.875,0.645,1990s
+388,92,Except for Monday,Something In Red,Lorrie Morgan,176040,0.0818,0.658,0.6,-11.984,170.114,0.886,1990s
+389,93,Party Crowd,Out With A Bang,David Lee Murphy,198440,0.0379,0.758,0.655,-11.661,127.141,0.767,1990s
+390,94,Indian Outlaw,Not A Moment Too Soon,Tim McGraw,182120,0.0364,0.664,0.739,-7.229,110.101,0.759,1990s
+391,95,"If You See Him, If You See Her",If You See Him,Reba McEntire,235933,0.272,0.371,0.452,-7.739,164.424,0.186,1990s
+392,96,You've Got to Stand for Something,You've Got to Stand for Something,Aaron Tippin,182280,0.199,0.533,0.585,-9.789,83.403,0.472,1990s
+393,97,You Win My Love,The Woman In Me,Shania Twain,265600,0.0165,0.707,0.802,-8.943,127.732,0.947,1990s
+394,98,How Your Love Makes Me Feel,Greatest Hits,Diamond Rio,245400,0.349,0.612,0.787,-8.119,140.907,0.577,1990s
+395,99,I Left Something Turned On At Home,Dreamin' Out Loud,Trace Adkins,188240,0.169,0.623,0.91,-5.29,151.466,0.929,1990s
+396,0,It's A Great Day To Be Alive,Down The Road I Go,Travis Tritt,241533,0.246,0.595,0.653,-4.935,128.93,0.542,2000s
+397,1,Red Dirt Road,Red Dirt Road,Brooks & Dunn,260360,0.0664,0.555,0.868,-3.798,136.12,0.479,2000s
+398,2,Before He Cheats,Some Hearts,Carrie Underwood,199946,0.271,0.519,0.749,-3.318,147.905,0.29,2000s
+399,3,Picture (feat. Sheryl Crow),Cocky,Kid Rock,298960,0.172,0.692,0.496,-7.332,97.945,0.376,2000s
+400,4,Somebody Like You,Golden Road,Keith Urban,323040,0.108,0.624,0.84,-5.768,111.02,0.656,2000s
+401,5,Cowboy Take Me Away,Fly,The Chicks,287266,0.365,0.467,0.622,-7.255,164.418,0.455,2000s
+402,6,Something Like That,A Place In The Sun,Tim McGraw,183733,0.378,0.507,0.85,-5.679,171.8,0.847,2000s
+403,7,I Go Back,When The Sun Goes Down,Kenny Chesney,243666,0.0409,0.532,0.842,-5.754,90.187,0.67,2000s
+404,8,Gunpowder & Lead,Crazy Ex-Girlfriend,Miranda Lambert,191693,0.153,0.333,0.907,-3.191,187.826,0.353,2000s
+405,9,Suds in the Bucket,Restless,Sara Evans,227266,0.052,0.511,0.903,-3.163,161.992,0.898,2000s
+406,10,She's Country,Wide Open,Jason Aldean,220573,0.198,0.553,0.872,-2.832,172.138,0.638,2000s
+407,11,Ain't Nothing 'Bout You,#1s ... and then some,Brooks & Dunn,199413,0.144,0.325,0.887,-4.199,202.339,0.705,2000s
+408,12,Redneck Woman,Here For The Party,Gretchen Wilson,221333,0.13,0.499,0.825,-5.146,185.069,0.753,2000s
+409,13,Live Like You Were Dying,Live Like You Were Dying,Tim McGraw,300333,0.492,0.416,0.546,-7.728,159.929,0.418,2000s
+410,14,Good Directions,Doin' Somethin' Right,Billy Currington,215853,0.307,0.716,0.72,-2.183,122.512,0.464,2000s
+411,15,I Wanna Talk About Me,Pull My Chain,Toby Keith,183960,0.168,0.765,0.87,-5.191,106.06,0.684,2000s
+412,16,Mr. Mom,Let's Be Us Again,Lonestar,208693,0.0576,0.505,0.842,-3.316,172.136,0.671,2000s
+413,17,Boondocks,The Road To Here,Little Big Town,272346,0.211,0.41,0.78,-5.391,88.016,0.695,2000s
+414,18,In Color,That Lonesome Song,Jamey Johnson,290680,0.391,0.544,0.404,-8.751,129.518,0.251,2000s
+415,19,Chicken Fried,The Foundation,Zac Brown Band,238146,0.645,0.566,0.713,-4.25,169.861,0.805,2000s
+416,20,Austin,Blake Shelton,Blake Shelton,230333,0.188,0.605,0.609,-7.063,119.914,0.275,2000s
+417,21,Breathe,Breathe,Faith Hill,250546,0.173,0.529,0.496,-9.007,136.859,0.278,2000s
+418,22,Love Like Crazy,Love Like Crazy,Lee Brice,217386,0.0203,0.535,0.725,-5.108,78.489,0.292,2000s
+419,23,When the Sun Goes Down,When The Sun Goes Down,Kenny Chesney,290560,0.0432,0.798,0.741,-6.802,104.945,0.708,2000s
+420,24,Find out Who Your Friends Are,For the Love,Tracy Lawrence,227840,0.209,0.524,0.797,-4.777,159.859,0.783,2000s
+421,25,If You're Going Through Hell (Before The Devil Even Knows),If You're Going Through Hell,Rodney Atkins,216773,0.0613,0.566,0.898,-3.659,115.954,0.791,2000s
+422,26,19 Somethin' - Greatest Hits Version,Greatest Hits,Mark Wills,200466,0.132,0.58,0.816,-5.165,89.938,0.814,2000s
+423,27,Alright,Learn To Live,Darius Rucker,231920,0.0527,0.601,0.806,-4.579,89.87,0.711,2000s
+424,28,Save a Horse (Ride a Cowboy),Horse of a Different Color,Big & Rich,200306,0.108,0.7,0.896,-2.276,102.065,0.817,2000s
+425,29,Leave the Pieces,"Stand Still, Look Pretty (U.S. Version)",The Wreckers,210560,0.0255,0.514,0.679,-6.117,164.109,0.496,2000s
+426,30,My Wish,Me And My Gang,Rascal Flatts,248280,0.0307,0.548,0.769,-4.853,135.712,0.388,2000s
+427,31,Brokenheartsville,Man With A Memory,Joe Nichols,230360,0.126,0.686,0.631,-5.182,103.953,0.509,2000s
+428,32,Our Song,Taylor Swift,Taylor Swift,201106,0.111,0.668,0.672,-4.931,89.011,0.539,2000s
+429,33,American Honey,Need You Now,Lady A,224866,0.508,0.588,0.684,-5.154,85.997,0.121,2000s
+430,34,Watching Airplanes,Living Hard,Gary Allan,242946,0.547,0.374,0.711,-3.587,160.001,0.468,2000s
+431,35,Bless The Broken Road,Feels Like Today,Rascal Flatts,226680,0.671,0.591,0.45,-6.369,135.893,0.344,2000s
+432,36,Paint Me A Birmingham,Strong,Tracy Lawrence,228173,0.319,0.545,0.428,-9.388,131.784,0.335,2000s
+433,37,Drive (For Daddy Gene),Drive,Alan Jackson,242733,0.338,0.713,0.579,-8.066,125.179,0.511,2000s
+434,38,Whiskey Lullaby,A Hundred Miles Or More: A Collection,Alison Krauss,260826,0.817,0.532,0.371,-8.908,74.47,0.161,2000s
+435,39,Watching You,If You're Going Through Hell,Rodney Atkins,235426,0.105,0.625,0.848,-4.008,137.993,0.716,2000s
+436,40,Ol' Red,Blake Shelton,Blake Shelton,221266,0.146,0.664,0.556,-7.713,75.049,0.494,2000s
+437,41,Big Green Tractor,Wide Open,Jason Aldean,204200,0.646,0.623,0.59,-5.014,137.071,0.579,2000s
+438,42,Goodbye Earl,Fly,The Chicks,258640,0.0192,0.705,0.7,-7.38,122.841,0.765,2000s
+439,43,Would You Go With Me,Your Man,Josh Turner,228186,0.13,0.605,0.864,-5.365,122.918,0.736,2000s
+440,44,Who I Am,Who I Am,Jessica Andrews,255233,0.0115,0.463,0.674,-5.422,84.039,0.259,2000s
+441,45,People Are Crazy,Little Bit Of Everything,Billy Currington,231360,0.213,0.651,0.699,-5.006,141.938,0.36,2000s
+442,46,My Front Porch Looking In,Playlist: The Very Best Of Lonestar,Lonestar,223573,0.0317,0.529,0.811,-5.62,102.703,0.454,2000s
+443,47,Just Got Started Lovin' You,Sunset Man (Standard Version),James Otto,234640,0.159,0.705,0.606,-7.047,98.001,0.876,2000s
+444,48,Tequila Makes Her Clothes Fall Off,III,Joe Nichols,187053,0.129,0.664,0.706,-7.045,93.968,0.681,2000s
+445,49,Just Another Day In Paradise,Phil Vassar,Phil Vassar,233880,0.359,0.596,0.706,-5.562,146.095,0.705,2000s
+446,50,Something to Be Proud Of,You Do Your Thing,Montgomery Gentry,256600,0.0811,0.645,0.693,-6.481,97.555,0.553,2000s
+447,51,Toes,The Foundation,Zac Brown Band,262773,0.657,0.801,0.759,-5.398,129.971,0.821,2000s
+448,52,Amarillo Sky,Jason Aldean,Jason Aldean,202546,0.314,0.491,0.776,-3.887,154.988,0.428,2000s
+449,53,She Thinks My Tractor's Sexy,Everywhere We Go,Kenny Chesney,248066,0.0664,0.689,0.886,-7.066,122.07,0.906,2000s
+450,54,What Was I Thinkin',Dierks Bentley,Dierks Bentley,260826,0.152,0.551,0.825,-6.24,164.857,0.933,2000s
+451,55,This One's for the Girls,Martina,Martina McBride,243160,0.0626,0.613,0.801,-4.431,126.966,0.609,2000s
+452,56,It Won't Be Like This For Long,Learn To Live,Darius Rucker,219000,0.335,0.584,0.524,-6.001,143.863,0.389,2000s
+453,57,As Good As I Once Was,Honkytonk University,Toby Keith,227840,0.266,0.68,0.87,-4.461,119.075,0.646,2000s
+454,58,Brand New Girlfriend,Brand New Girlfriend,Steve Holy,220186,0.0273,0.669,0.861,-3.547,133.82,0.72,2000s
+455,59,A Little Bit Stronger,Stronger,Sara Evans,301986,0.282,0.536,0.65,-5.603,147.93,0.288,2000s
+456,60,Landslide,Home,The Chicks,230549,0.534,0.571,0.438,-7.007,145.948,0.444,2000s
+457,61,Mississippi Girl,Fireflies,Faith Hill,232706,0.113,0.499,0.765,-4.148,83.916,0.665,2000s
+458,62,Gettin' You Home,The Man I Want To Be,Chris Young,212133,0.44,0.639,0.678,-5.02,106.966,0.531,2000s
+459,63,Red Ragtop,Tim McGraw And The Dancehall Doctors,Tim McGraw,283560,0.191,0.551,0.671,-7.888,77.066,0.561,2000s
+460,64,Long Black Train,Long Black Train,Josh Turner,250626,0.237,0.537,0.699,-6.615,84.905,0.814,2000s
+461,65,Born to Fly,Born To Fly,Sara Evans,336360,0.00931,0.612,0.663,-9.314,100.178,0.558,2000s
+462,66,Gimmie That Girl,Old Things New,Joe Nichols,185453,0.205,0.5,0.9,-3.577,162.249,0.675,2000s
+463,67,Must Be Doin' Somethin' Right,Doin' Somethin' Right,Billy Currington,269586,0.205,0.489,0.647,-3.424,167.792,0.436,2000s
+464,68,Lucky Man,Some People Change,Montgomery Gentry,196706,0.368,0.578,0.471,-7.27,133.061,0.532,2000s
+465,69,Amazed,Lonely Grill,Lonestar,240866,0.26,0.561,0.543,-8.498,139.803,0.243,2000s
+466,70,Travelin' Soldier,Home,The Chicks,343496,0.691,0.569,0.365,-7.047,145.859,0.508,2000s
+467,71,I Need You,Let It Go,Tim McGraw,248800,0.333,0.541,0.596,-7.09,79.697,0.204,2000s
+468,72,These Are My People,If You're Going Through Hell,Rodney Atkins,213653,0.0316,0.558,0.896,-3.687,90.064,0.63,2000s
+469,73,Tim McGraw,Taylor Swift,Taylor Swift,232106,0.575,0.58,0.491,-6.462,76.009,0.425,2000s
+470,74,Redneck Yacht Club,My Kind Of Livin',Craig Morgan,230373,0.455,0.49,0.817,-5.405,168.115,0.808,2000s
+471,75,Play Something Country,#1s ... and then some,Brooks & Dunn,195586,0.0782,0.685,0.909,-3.797,115.043,0.864,2000s
+472,76,Modern Day Bonnie and Clyde,Down The Road I Go,Travis Tritt,284173,0.101,0.647,0.874,-5.075,89.727,0.918,2000s
+473,77,Here for the Party,Here For The Party,Gretchen Wilson,196760,0.0127,0.656,0.717,-4.871,123.988,0.809,2000s
+474,78,Good Morning Beautiful,Blue Moon,Steve Holy,210933,0.452,0.565,0.5,-8.822,70.984,0.242,2000s
+475,79,It Must Be Love,34 Number Ones,Alan Jackson,171813,0.284,0.816,0.669,-7.925,112.132,0.967,2000s
+476,80,Don't Think I Don't Think About It,Learn To Live,Darius Rucker,183306,0.0275,0.578,0.752,-5.264,149.689,0.405,2000s
+477,81,Why,Jason Aldean,Jason Aldean,213733,0.0688,0.568,0.695,-3.828,135.926,0.218,2000s
+478,82,That's What I Love About Sunday,My Kind Of Livin',Craig Morgan,201493,0.479,0.6,0.56,-6.311,139.469,0.417,2000s
+479,83,What Kinda Gone,My Life's Been A Country Song,Chris Cagle,181613,0.257,0.494,0.861,-5.236,172.052,0.668,2000s
+480,84,Need You Now,Need You Now,Lady A,277573,0.0927,0.587,0.622,-5.535,107.943,0.231,2000s
+481,85,All My Friends Say,I'll Stay Me,Luke Bryan,242800,0.0439,0.683,0.9,-4.422,117.036,0.962,2000s
+482,86,"Jesus, Take the Wheel",Some Hearts,Carrie Underwood,226493,0.665,0.359,0.518,-3.537,76.572,0.135,2000s
+483,87,Free And Easy (Down The Road I Go),Greatest Hits / Every Mile A Memory 2003 - 2008,Dierks Bentley,201120,0.00525,0.557,0.825,-4.657,120.017,0.841,2000s
+484,88,Where I Come From,34 Number Ones,Alan Jackson,239240,0.22,0.726,0.631,-8.136,124.711,0.746,2000s
+485,89,There Goes My Life,When The Sun Goes Down,Kenny Chesney,302666,0.0337,0.577,0.483,-8.141,135.77,0.218,2000s
+486,90,Some Beach,Blake Shelton's Barn & Grill,Blake Shelton,204826,0.231,0.787,0.765,-6.331,115.979,0.964,2000s
+487,91,Kerosene,Kerosene,Miranda Lambert,185800,0.00687,0.628,0.92,-3.252,126.998,0.808,2000s
+488,92,Nothing On But The Radio,See If I Care,Gary Allan,212026,0.0572,0.679,0.736,-5.954,109.444,0.664,2000s
+489,93,Pickin' Wildflowers,Three Chord Country and American Rock & Roll,Keith Anderson,185920,0.0353,0.561,0.716,-3.341,152.089,0.667,2000s
+490,94,You Look Good In My Shirt,Golden Road,Keith Urban,227733,0.0075,0.653,0.865,-6.395,116.966,0.828,2000s
+491,95,Bring On The Rain,Burn,Jo Dee Messina,240173,0.689,0.468,0.404,-7.25,138.115,0.148,2000s
+492,96,Forever And For Always,Up!,Shania Twain,283000,0.232,0.469,0.722,-4.806,85.984,0.529,2000s
+493,97,What Hurts The Most,Me And My Gang,Rascal Flatts,214106,0.0088,0.537,0.674,-5.134,136.002,0.33,2000s
+494,98,Famous In a Small Town,Crazy Ex-Girlfriend,Miranda Lambert,245333,0.268,0.509,0.932,-3.948,138.722,0.675,2000s
+495,99,I Love This Bar,Shock 'N Y'all,Toby Keith,335333,0.024,0.608,0.825,-6.303,115.049,0.454,2000s
+496,0,Whiskey Glasses,If I Know Me,Morgan Wallen,234346,0.369,0.614,0.68,-4.58,149.959,0.707,2010s
+497,1,Dirt Road Anthem,My Kinda Party,Jason Aldean,229400,0.347,0.68,0.741,-5.055,127.024,0.635,2010s
+498,2,Mama's Broken Heart,Four The Record,Miranda Lambert,177773,0.278,0.768,0.809,-4.204,111.989,0.748,2010s
+499,3,When It Rains It Pours,This One's for You,Luke Combs,240760,0.013,0.551,0.801,-5.069,128.027,0.625,2010s
+500,4,Dirty Laundry,Storyteller,Carrie Underwood,204093,0.0595,0.456,0.874,-4.129,200.179,0.5,2010s
+501,5,Peter Pan,The First Time,Kelsea Ballerini,200040,0.0284,0.514,0.659,-6.142,76.483,0.463,2010s
+502,6,Crazy Girl,Life At Best,Eli Young Band,200706,0.000415,0.366,0.651,-3.842,151.343,0.257,2010s
+503,7,Stuck Like Glue,The Incredible Machine,Sugarland,247586,0.329,0.702,0.795,-4.764,83.961,0.836,2010s
+504,8,Barefoot Blue Jean Night,Barefoot Blue Jean Night,Jake Owen,167426,0.202,0.599,0.807,-4.679,172.017,0.812,2010s
+505,9,The House That Built Me,Revolution,Miranda Lambert,236626,0.578,0.525,0.3,-8.005,80.993,0.206,2010s
+506,10,Play It Again,Crash My Party,Luke Bryan,226866,0.0916,0.506,0.886,-3.225,143.935,0.595,2010s
+507,11,Meant to Be (feat. Florida Georgia Line),All Your Fault: Pt. 2,Bebe Rexha,163870,0.047,0.643,0.783,-6.458,154.084,0.579,2010s
+508,12,Are You Gonna Kiss Me Or Not,Thompson Square,Thompson Square,184920,0.039,0.485,0.701,-3.807,151.948,0.613,2010s
+509,13,I Could Use a Love Song,HERO (Deluxe Edition),Maren Morris,196421,0.214,0.638,0.634,-6.474,92.097,0.473,2010s
+510,14,Hurricane,This One's for You,Luke Combs,222533,0.0153,0.464,0.813,-6.185,75.977,0.515,2010s
+511,15,Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album],Platinum,Miranda Lambert,169586,0.0527,0.68,0.888,-5.308,90.076,0.484,2010s
+512,16,Wagon Wheel,True Believers,Darius Rucker,298373,0.455,0.537,0.66,-7.174,148.096,0.574,2010s
+513,17,Rumor,Lee Brice,Lee Brice,198440,0.749,0.655,0.56,-6.857,140.975,0.599,2010s
+514,18,Country Girl (Shake It For Me),Tailgates & Tanlines,Luke Bryan,225560,0.0293,0.645,0.904,-4.532,105.97,0.671,2010s
+515,19,"Lover, Lover",Judge Jerrod & The Hung Jury,Jerrod Niemann,193733,0.186,0.879,0.567,-6.509,112.473,0.948,2010s
+516,20,House Party,Montevallo,Sam Hunt,190240,0.113,0.747,0.861,-5.251,103.966,0.859,2010s
+517,21,Colder Weather,You Get What You Give (Deluxe),Zac Brown Band,273893,0.455,0.667,0.381,-7.494,135.975,0.199,2010s
+518,22,She Got the Best of Me,This One's for You Too (Deluxe Edition),Luke Combs,183160,0.0292,0.533,0.907,-3.793,150.99,0.7,2010s
+519,23,Head Over Boots,California Sunrise,Jon Pardi,202346,0.0763,0.563,0.688,-4.474,108.008,0.622,2010s
+520,24,Mean,Speak Now,Taylor Swift,237733,0.452,0.568,0.761,-3.987,163.974,0.789,2010s
+521,25,American Honey,Need You Now,Lady A,224866,0.508,0.588,0.684,-5.154,85.997,0.121,2010s
+522,26,Body Like A Back Road,Body Like A Back Road,Sam Hunt,165386,0.447,0.732,0.458,-7.225,98.938,0.661,2010s
+523,27,Die From A Broken Heart,Die From A Broken Heart,Maddie & Tae,188290,0.363,0.607,0.514,-6.631,75.978,0.414,2010s
+524,28,What Ifs (feat. Lauren Alaina),Kane Brown,Kane Brown,188253,0.00898,0.612,0.799,-4.603,125.976,0.687,2010s
+525,29,Every Little Thing,Yours,Russell Dickerson,190640,0.216,0.638,0.854,-4.664,93.869,0.859,2010s
+526,30,The Way I Talk,If I Know Me,Morgan Wallen,208280,0.0468,0.604,0.879,-3.388,137.983,0.757,2010s
+527,31,Beautiful Crazy,This One's for You Too (Deluxe Edition),Luke Combs,193200,0.676,0.551,0.402,-7.431,103.313,0.382,2010s
+528,32,Alright,Learn To Live,Darius Rucker,231920,0.0527,0.601,0.806,-4.579,89.87,0.711,2010s
+529,33,Hard To Love,Hard 2 Love,Lee Brice,224293,0.0119,0.638,0.722,-6.177,103.017,0.469,2010s
+530,34,My Girl,Dylan Scott (Deluxe Edition),Dylan Scott,197640,0.0353,0.652,0.719,-7.251,94.969,0.24,2010s
+531,35,Heaven,Kane Brown (Deluxe Edition),Kane Brown,179506,0.263,0.677,0.556,-6.544,80.006,0.521,2010s
+532,36,Chasin' You,If I Know Me,Morgan Wallen,205453,0.657,0.631,0.591,-5.785,97.074,0.489,2010s
+533,37,Springsteen,Chief,Eric Church,263386,0.1,0.692,0.809,-5.935,104.023,0.927,2010s
+534,38,Die A Happy Man,Tangled Up,Thomas Rhett,227426,0.418,0.595,0.389,-9.245,166.052,0.4,2010s
+535,39,As She's Walking Away,Country,Various Artists,223840,0.46,0.556,0.655,-5.909,183.981,0.334,2010s
+536,40,Beer Never Broke My Heart,What You See Is What You Get,Luke Combs,186733,0.0138,0.54,0.863,-4.483,77.0,0.64,2010s
+537,41,Cruise,Here's To The Good Times,Florida Georgia Line,208960,0.0191,0.457,0.948,-3.364,148.0,0.878,2010s
+538,42,I Don't Dance,I Don't Dance (Deluxe Edition),Lee Brice,221173,0.399,0.587,0.559,-7.742,92.036,0.19,2010s
+539,43,Drunk On A Plane,RISER,Dierks Bentley,254466,0.00495,0.423,0.73,-5.566,205.972,0.66,2010s
+540,44,Eyes On You,Lambs & Lions,Chase Rice,182493,0.323,0.606,0.652,-6.982,97.155,0.476,2010s
+541,45,Break Up In A Small Town,Montevallo,Sam Hunt,229880,0.0749,0.579,0.776,-5.365,136.044,0.434,2010s
+542,46,Knee Deep (feat. Jimmy Buffett),You Get What You Give (Deluxe),Zac Brown Band,203173,0.432,0.715,0.584,-8.231,90.987,0.61,2010s
+543,47,I Don't Want This Night To End,Tailgates & Tanlines,Luke Bryan,219973,0.0275,0.616,0.728,-4.02,111.934,0.375,2010s
+544,48,Catch,Ticket To L.A.,Brett Young,196440,0.0248,0.566,0.765,-6.337,156.036,0.604,2010s
+545,49,You Make It Easy,Rearview Town,Jason Aldean,196800,0.143,0.375,0.574,-5.305,132.025,0.406,2010s
+546,50,My Church,HERO (Deluxe Edition),Maren Morris,197930,0.243,0.517,0.743,-4.336,76.979,0.664,2010s
+547,51,Tequila,Dan + Shay,Dan + Shay,196746,0.0312,0.489,0.581,-5.731,86.016,0.494,2010s
+548,52,Need You Now,Need You Now,Lady A,277573,0.0927,0.587,0.622,-5.535,107.943,0.231,2010s
+549,53,Long Hot Summer,Get Closer (Deluxe Version),Keith Urban,273586,0.0301,0.657,0.785,-8.428,127.987,0.769,2010s
+550,54,This Is How We Roll,Here's To The Good Times...This Is How We Roll,Florida Georgia Line,220906,0.016,0.555,0.931,-2.969,132.085,0.723,2010s
+551,55,How Country Feels,How Country Feels,Randy Houser,185906,0.0379,0.678,0.839,-3.617,104.952,0.772,2010s
+552,56,Honey Bee,Red River Blue (Deluxe Edition),Blake Shelton,210720,0.00167,0.481,0.849,-5.131,205.57,0.723,2010s
+553,57,Girl Crush,Pain Killer,Little Big Town,193320,0.842,0.5,0.225,-10.22,173.788,0.355,2010s
+554,58,Don't You Wanna Stay (with Kelly Clarkson),My Kinda Party,Jason Aldean,256440,0.129,0.445,0.631,-4.798,143.846,0.152,2010s
+555,59,We Are Tonight,We Are Tonight,Billy Currington,232106,0.0323,0.559,0.812,-5.347,127.911,0.472,2010s
+556,60,Take A Back Road,Take A Back Road,Rodney Atkins,209426,0.183,0.581,0.856,-4.0,169.902,0.918,2010s
+557,61,Rain Is A Good Thing,Doin' My Thing,Luke Bryan,176160,0.105,0.622,0.932,-4.66,108.051,0.519,2010s
+558,62,Follow Your Arrow,Same Trailer Different Park,Kacey Musgraves,199640,0.418,0.448,0.649,-5.925,195.925,0.575,2010s
+559,63,Even If It Breaks Your Heart,Life At Best,Eli Young Band,220520,0.000159,0.495,0.527,-4.742,208.067,0.574,2010s
+560,64,In Case You Didn't Know,Brett Young,Brett Young,224853,0.386,0.607,0.536,-7.306,147.986,0.434,2010s
+561,65,When She Says Baby,Night Train,Jason Aldean,171120,0.0682,0.673,0.76,-5.126,113.063,0.807,2010s
+562,66,A Little Bit Stronger,Stronger,Sara Evans,301986,0.282,0.536,0.65,-5.603,147.93,0.288,2010s
+563,67,May We All,Dig Your Roots,Florida Georgia Line,226173,0.0409,0.514,0.918,-4.306,150.033,0.64,2010s
+564,68,Yours,Yours,Russell Dickerson,216960,0.119,0.555,0.722,-6.005,134.058,0.559,2010s
+565,69,That's My Kind Of Night,Crash My Party,Luke Bryan,190186,0.0571,0.661,0.751,-2.909,109.995,0.875,2010s
+566,70,Gettin' You Home,The Man I Want To Be,Chris Young,212133,0.44,0.639,0.678,-5.02,106.966,0.531,2010s
+567,71,Pontoon,Tornado,Little Big Town,212320,0.413,0.721,0.819,-5.715,96.02,0.867,2010s
+568,72,Up Down (feat. Florida Georgia Line),If I Know Me,Morgan Wallen,197253,0.0813,0.589,0.882,-3.039,129.915,0.793,2010s
+569,73,Highway Don't Care,Two Lanes Of Freedom,Tim McGraw,276880,0.0216,0.47,0.79,-5.352,158.061,0.495,2010s
+570,74,Somethin' 'Bout A Truck,Up All Night,Kip Moore,213826,0.0697,0.554,0.794,-5.417,176.01,0.79,2010s
+571,75,You Don't Know Her Like I Do,Halfway To Heaven (Deluxe Edition),Brantley Gilbert,286520,0.022,0.49,0.716,-6.681,74.988,0.288,2010s
+572,76,American Kids,The Big Revival,Kenny Chesney,182960,0.0476,0.782,0.589,-7.37,85.022,0.849,2010s
+573,77,If I Die Young,The Band Perry,The Band Perry,222773,0.348,0.606,0.497,-6.611,130.739,0.362,2010s
+574,78,Prayed For You,Everywhere But On,Matt Stell,210373,0.0724,0.6,0.698,-5.86,140.032,0.57,2010s
+575,79,Humble And Kind,Damn Country Music,Tim McGraw,259266,0.679,0.355,0.48,-7.31,100.956,0.137,2010s
+576,80,Why Don't We Just Dance,Haywire,Josh Turner,192800,0.42,0.677,0.776,-5.933,121.834,0.642,2010s
+577,81,Sunshine & Whiskey,Sunshine & Whiskey,Frankie Ballard,182400,0.223,0.67,0.737,-6.794,92.983,0.754,2010s
+578,82,Bottoms Up - Remix,Just As I Am (Platinum Edition),Brantley Gilbert,221573,0.0153,0.559,0.754,-5.509,169.977,0.303,2010s
+579,83,Cop Car,Fuse (Deluxe Edition),Keith Urban,256746,0.193,0.538,0.664,-6.318,154.033,0.366,2010s
+580,84,God's Country,God's Country,Blake Shelton,205106,0.0608,0.538,0.752,-5.106,139.984,0.217,2010s
+581,85,Drink In My Hand,Chief,Eric Church,191306,0.00635,0.626,0.913,-4.452,113.044,0.946,2010s
+582,86,I Want Crazy - Encore,Hunter Hayes (Encore),Hunter Hayes,236865,0.0539,0.562,0.878,-4.806,103.029,0.558,2010s
+583,87,Life Changes,Life Changes,Thomas Rhett,190226,0.1,0.687,0.845,-4.37,87.972,0.809,2010s
+584,88,Burnin' It Down,"Old Boots, New Dirt",Jason Aldean,219160,0.305,0.681,0.795,-6.652,135.939,0.64,2010s
+585,89,Farmer's Daughter,It's America,Rodney Atkins,207040,0.224,0.612,0.791,-3.519,133.977,0.786,2010s
+586,90,Hotel Key,Happy Endings,Old Dominion,166573,0.152,0.758,0.867,-5.087,102.018,0.964,2010s
+587,91,It Don't Hurt Like It Used To,Summer Forever,Billy Currington,184506,0.071,0.558,0.818,-4.07,81.034,0.453,2010s
+588,92,Five More Minutes,Seasons Change,Scotty McCreery,241146,0.259,0.494,0.634,-4.933,156.03,0.28,2010s
+589,93,It Goes Like This,It Goes Like This,Thomas Rhett,186080,0.117,0.543,0.837,-6.448,168.056,0.506,2010s
+590,94,Where I Come From,Rebels on the Run,Montgomery Gentry,201840,0.0108,0.62,0.852,-4.203,90.038,0.479,2010s
+591,95,Blue Ain't Your Color,Ripcord,Keith Urban,230600,0.617,0.69,0.416,-7.865,82.45,0.479,2010s
+592,96,Break Up with Him,Meat and Candy,Old Dominion,207733,0.0675,0.617,0.632,-5.381,151.988,0.564,2010s
+593,97,Setting the World On Fire (with P!nk),Cosmic Hallelujah,Kenny Chesney,217466,0.0171,0.61,0.822,-4.422,93.993,0.437,2010s
+594,98,Miss Me More,Unapologetically (Deluxe Edition),Kelsea Ballerini,192840,0.014,0.643,0.72,-7.146,96.028,0.491,2010s
+595,99,Burning House,Untamed,Cam,231333,0.887,0.728,0.253,-8.427,140.923,0.457,2010s
+596,0,One Mississippi,One Mississippi,Kane Brown,213718,0.00279,0.471,0.846,-5.269,100.089,0.539,modern
+597,1,Thinking 'Bout You (feat. MacKenzie Porter),Thinking 'Bout You (feat. MacKenzie Porter),Dustin Lynch,170560,0.137,0.403,0.711,-4.189,203.803,0.801,modern
+598,2,Buy Dirt,Buy Dirt,Jordan Davis,167480,0.639,0.586,0.559,-6.725,177.945,0.437,modern
+599,3,Beers On Me,Beers On Me,Dierks Bentley,174680,0.182,0.59,0.846,-4.251,146.028,0.733,modern
+600,4,half of my hometown (feat. Kenny Chesney),half of my hometown,Kelsea Ballerini,231832,0.147,0.571,0.618,-4.966,138.03,0.288,modern
+601,5,'Til You Can't,Human The Double Album,Cody Johnson,224213,0.0513,0.501,0.815,-4.865,160.087,0.46,modern
+602,6,Cold As You,What You See Ain't Always What You Get (Deluxe Edition),Luke Combs,186106,0.0527,0.598,0.846,-4.956,144.04,0.328,modern
+603,7,Wilder Days,Reckless,Morgan Wade,251293,0.00322,0.502,0.662,-4.041,110.917,0.4,modern
+604,8,Truth About You,Truth About You,Mitchell Tenpenny,203036,0.0975,0.492,0.708,-4.639,161.989,0.697,modern
+605,9,Wishful Drinking (with Sam Hunt),Wishful Drinking (with Sam Hunt),Ingrid Andress,194544,0.289,0.678,0.528,-7.317,79.018,0.614,modern
+606,10,South On Ya,South On Ya,Luke Combs,171864,0.017,0.586,0.931,-4.096,134.051,0.472,modern
+607,11,Take My Name,Songs from 'For You',Parmalee,157906,0.222,0.559,0.66,-4.143,163.957,0.574,modern
+608,12,Pull Up,County Line,Chase Matthew,152000,0.506,0.733,0.813,-4.752,90.002,0.487,modern
+609,13,Just Drive,Just Drive,Erin Kinsey,147693,0.0957,0.714,0.766,-4.42,114.964,0.665,modern
+610,14,To Be Loved By You,To Be Loved By You,Parker McCollum,198324,0.00036,0.473,0.802,-4.497,145.983,0.453,modern
+611,15,First Light,First Light,BROWN & GRAY,180025,0.323,0.504,0.746,-4.018,92.955,0.596,modern
+612,16,Whiskey And Rain,Whiskey And Rain,Michael Ray,206506,0.508,0.653,0.623,-4.56,100.021,0.718,modern
+613,17,Never Say Never (with Lainey Wilson),Never Say Never (with Lainey Wilson),Cole Swindell,176146,0.00717,0.472,0.937,-4.028,140.073,0.454,modern
+614,18,It’s ‘Cause I Am,Real To Me,Callista Clark,166800,0.14,0.731,0.674,-5.018,99.05,0.623,modern
+615,19,Drive,Drive,CHASE WRIGHT,215000,0.117,0.626,0.84,-6.945,144.087,0.737,modern
+616,20,Fancy Like,Country Stuff,Walker Hayes,161853,0.114,0.649,0.76,-6.487,80.018,0.843,modern
+617,21,Freedom Was A Highway,Bettie James,Jimmie Allen,212720,0.0891,0.563,0.847,-4.493,96.06,0.666,modern
+618,22,Never Wanted To Be That Girl,Never Wanted To Be That Girl,Carly Pearce,214416,0.151,0.553,0.609,-6.436,73.903,0.471,modern
+619,23,Best Thing Since Backroads,Best Thing Since Backroads,Jake Owen,187432,0.0423,0.515,0.838,-3.82,156.033,0.328,modern
+620,24,Sleeve,Sleeve,Nate Smith,261359,0.0224,0.698,0.794,-5.542,125.982,0.299,modern
+621,25,"Back Then, Right Now","Back Then, Right Now",Tenille Arts,182066,0.0142,0.582,0.724,-3.21,76.986,0.495,modern
+622,26,Love Is Real,Country Outta My Girl,Morgan Evans,162973,0.00853,0.645,0.732,-5.089,95.02,0.708,modern
+623,27,New Truck,New Truck,Dylan Scott,174360,0.222,0.529,0.755,-5.864,96.86,0.528,modern
+624,28,At the End of a Bar,Famous Friends,Chris Young,186373,0.0443,0.494,0.782,-4.228,75.932,0.44,modern
+625,29,Stop Draggin' Your Boots,Stop Draggin' Your Boots,Danielle Bradbery,164347,0.0379,0.463,0.76,-5.958,123.899,0.65,modern
+626,30,Slow Down Summer,Slow Down Summer,Thomas Rhett,216764,0.00838,0.464,0.755,-5.707,155.973,0.449,modern
+627,31,Beer With My Friends (feat. Cole Swindell and David Lee Murphy),Beer With My Friends (feat. Cole Swindell and David Lee Murphy),Shy Carter,176533,0.0446,0.603,0.927,-2.598,109.938,0.815,modern
+628,32,Getting Over Him,Getting Over Him,Lauren Alaina,167678,0.0931,0.567,0.868,-4.699,154.07,0.517,modern
+629,33,Heart On Fire,Heart,Eric Church,258799,0.0352,0.653,0.927,-4.699,119.97,0.894,modern
+630,34,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,285106,0.167,0.391,0.715,-4.516,149.654,0.473,modern
+631,35,23,23,Sam Hunt,179720,0.0206,0.641,0.78,-5.138,98.004,0.693,modern
+632,36,Paying For It,Paying For It,Levi Hummon,191087,0.0254,0.528,0.802,-4.467,177.907,0.625,modern
+633,37,justified,justified,Kacey Musgraves,180800,0.807,0.669,0.552,-7.98,100.102,0.488,modern
+634,38,Tequila Little Time,Heartache Medication,Jon Pardi,207161,0.0375,0.757,0.705,-5.084,104.972,0.855,modern
+635,39,Zero Trucks,Zero Trucks,Alana Springsteen,162695,0.135,0.643,0.636,-4.927,89.991,0.777,modern
+636,40,Steal My Love,Good Things,Dan + Shay,162120,0.619,0.59,0.633,-5.452,179.856,0.751,modern
+637,41,Come Back As A Country Boy,Come Back As A Country Boy,Blake Shelton,221693,0.0197,0.487,0.796,-3.9,76.037,0.44,modern
+638,42,All American,All American,Mickey Guyton,182080,0.27,0.628,0.675,-3.534,130.159,0.655,modern
+639,43,Make It Past Georgia,Make It Past Georgia,Ashland Craft,201322,0.139,0.556,0.726,-5.054,142.107,0.441,modern
+640,44,Doin' This,Doin' This,Luke Combs,254181,0.18,0.593,0.552,-5.838,115.0,0.39,modern
+641,45,Wild Hearts,Wild Hearts,Keith Urban,182930,0.00276,0.605,0.786,-4.138,116.995,0.512,modern
+642,46,If I Was a Cowboy,If I Was a Cowboy,Miranda Lambert,195013,0.271,0.575,0.644,-5.68,80.07,0.626,modern
+643,47,Younger Me,Younger Me,Brothers Osborne,206853,0.0361,0.55,0.683,-6.914,87.053,0.24,modern
+644,48,If It Wasn’t For Trucks,If It Wasn't For Trucks (Big Machine Radio Release Special),Riley Green,197333,0.00047,0.435,0.811,-5.594,152.041,0.174,modern
+645,49,7500 OBO,Here On Earth,Tim McGraw,221400,0.1,0.528,0.718,-6.954,155.759,0.51,modern
+646,50,Footprints On The Moon,Goldmine,Gabby Barrett,190223,0.00648,0.506,0.749,-4.982,151.928,0.372,modern
+647,51,Old School,Old School,Toby Keith,193725,0.0539,0.613,0.851,-3.762,167.953,0.958,modern

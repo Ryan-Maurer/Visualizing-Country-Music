@@ -1,5 +1,3 @@
 #ignore creds/data
-spotify_creds/
-test4
+spotify_creds
 data/
-plz_ignore/
