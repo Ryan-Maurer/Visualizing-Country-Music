@@ -1,4 +1,4 @@
 #ignore creds/data
-spotify_creds.txt
-test2.txt
-data
+spotify_creds/
+test2/
+data/
