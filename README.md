@@ -29,7 +29,14 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 
 <br />
 
+# Table of Contents
+1. [Methodology](#methodology)
+2. [Example2](#example2)
+
+
 ## Methodology 
 In determining the best way of investigating the 
+
+## Example2
 
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts
