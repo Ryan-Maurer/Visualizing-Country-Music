@@ -49,6 +49,7 @@ Spotify provides access to this information for their entire catalogue through t
 Below is an example of the results of an API query to get the audio features for the song "Achy Breaky Heart" by Billy Ray Cyrus:
 <br />
 ![ScreenShot](./images/achy_breaky.JPG)
+![ScreenShot](./images/spotify_features.png)
 <br />
 Each variable is listed with its rating, and a collection of these queries from releases of a particular time/genre can aid in making inferences about musical norms. 
 As stated, this projects aims to collect country music and its attributes into a useable format in order to determine changes in musical preferences across decades.
@@ -59,8 +60,6 @@ In order to do so, lists of songs that are indicative of the music that was goin
 The next step is to determine how to get the music to search for in the API. 
 Spotify's API allows for searching for tracks within a playlist, and the most straghtforward way I found to get music was by utillizing both pre-existing and self-created playlists.
 Below is an example of one of the playlists I used to get a list of songs emblematic of country music in the 1960's[^4].
-<br />
-![ScreenShot](./images/spotify_features.png)
 <br /> 
 I primarily relied on Spotify-created playlists for country music, and for pop I utillized [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era), which generates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
 <br />
