@@ -18,7 +18,7 @@ Tools and Processes:
 
 * API Querying
 
-# "Country music is gone - and it's not coming back." - Alan Jackson
+## "Country music is gone - and it's not coming back."- Alan Jackson
 
 As someone who is relatively ignorant to country music and its history, I have nevertheless many times over been exposed to the notion that country music has evolved into something very different, if not contrary, from what it was during its "Golden Era".
 [^1]
