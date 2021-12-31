@@ -4,7 +4,7 @@ This project aims to  identify changes withhin the country music genre across de
 
 Tools and Procedures:
 
-* Python (Pandas, Matplotlib, Spotipy library)
+* Python (Pandas, Matplotlib, Seaborn, Spotipy library)
 
 * Power BI
 
@@ -34,6 +34,7 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 2. [Methodology](#methodology)
 3. [Data Sources](#data-sources)
 4. [Cleaning and Exporting](#cleaning-and-exporting)
+5. [Analysis](#analysis)
 
 ## Data Questions
 1. How has country music changed musically from decade to decade since the 1960's?
@@ -55,19 +56,29 @@ Each variable is listed with its rating, and a collection of these queries from 
 As stated, this projects aims to collect country music and its attributes into a useable format in order to determine changes in musical preferences across decades.
 In order to do so, lists of songs that are indicative of the music that was going on at the time is integral to this project.
 <br />
-![image](./images/60s_playlist.JPG)
 ## Data Sources
 The next step is to determine how to get the music to search for in the API. 
 Spotify's API allows for searching for tracks within a playlist, and the most straghtforward way I found to get music was by utillizing both pre-existing and self-created playlists.
 Below is an example of one of the playlists I used to get a list of songs emblematic of country music in the 1960's[^4].
 <br /> 
+![image](./images/60s_playlist.JPG)
 I primarily relied on Spotify-created playlists for country music, and for pop I utillized [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era), which generates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
 <br />
 ## Cleaning and Exporting
 My preferred method of querying in the API was by using the [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) library for python.
-The process was to get the data from JSON format into a Pandas DataFrame, and then export in csv format for dashboarding.  
+The process was to get the data from JSON format into a Pandas DataFrame, and then exporting in csv format for dashboarding.  
 ![excel](./images/excel_screen.JPG)
-
+<br />
+## Analysis
+I've found boxplots to be incredibly useful in visualizing changes across decades.  
+In this case, they give a high-level understanding of the distribution of the data for each variable, and when plotted by decade, paint an informative picture of how they change over time.
+We can see, for instance, that acousticness overall has become predictably less and less prominant over time.  
+Due to the adoption of digital instruments and recording processes, it is no surprise to see this taking place and it outlines an effective way of interpretting this data, which to compare what is being displayed to what we know about the progression of music and the adoption of technology over the last several decades.
+To determine if there are issues with data one often performs a sanity check, where the comparison between the story being told by the data and what the analyst expects to see is not contradictory.
+In this case, the increasingly smaller representation of accoustiness and the greater representation of energy and loudness was expected and I am happy to be capturing that with this visualization.
+![box](./images/boxplots.JPG)
+<br />
+We can see
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts
 [^2]: A qualitative attribute in this case is a measure of the pressence of a certain element in a song, such as its perceived acousticness, energy, etc.
 [^3]: The perceived positivity/negativity of a song.
