@@ -14,9 +14,10 @@ Tools and Processes:
 
 * Spotify API
 
+* API Querying
+
 * Data Cleaning, Exploatarion, Visualization, and Analysis
 
-* API Querying
 
 ## "Country music is gone - and it's not coming back."- Alan Jackson
 
@@ -29,5 +30,15 @@ While some people making this observation are concerned about the incorporation 
 test
 
 <br />
+
+## Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+
+
+
+## Example
+## Example2
+
 
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts. 
