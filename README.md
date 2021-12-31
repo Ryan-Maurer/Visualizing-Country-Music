@@ -1,6 +1,6 @@
 ![image](./images/Spotify_banner.jpg)
 # Visualizing Country Music Using Python, Power BI, and the Spotify API
-This project aims to  identify changes withhin the country music genre through the utillizaiton of Spotify's API.
+This project aims to  identify changes withhin the country music genre across decades through the utillizaiton of Spotify's API.
 
 Tools and Processes:
 
@@ -42,17 +42,27 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 ## Methodology 
 In determining the best way of investigating the changes in country music, it's best to look at the source itself, the music of course! 
 Whereas before it may have been difficult to objectively get qualitative attributes [^2]of songs besides length and tempo, today we have algorithms that can determine qualities of a song through processes such as machine learning.
-One of the most phemonenol features that Spotify provides is their end-of-year "Wrapped" playlists, which utillizes these algorithms in no small part to make conclusions about their user's listening habits.
+One of the most phemonenol features that Spotify provides is their end-of-year "Wrapped" playlists, which utillizes these types of algorithms in no small part to make conclusions about their user's listening habits.
 Does this user prefer happier up-tempo music, or do they prefer slower more somber music?  Based on how their preferred music rates in terms of valence[^3], energy, etc, Spotify can use that data to draw conclusions.
-<br />
-Another great thing about Spotify is that they provide access to this information for their entire catalogue through their API.  
+Spotify provides access to this information for their entire catalogue through their API, which we can use to get all of the attributes we want for our songs.  
 Below is an example of an API query to get the audio features for the song "Achy Breaky Heart" by Billy Ray Cyrus:
 <br />
 ![ScreenShot](./images/achy_breaky.JPG)
 <br />
+Each variable is listed with its rating, and these could be aggregated together to make inferences about musical norms. 
+As stated, this projects aims to aggregate country music by decade, in order to determine changes in musical preferences across decades.
+In order to do so, lists of songs that are indicative of the music that was going on at the time is integral to this project.
+<br />
+The next step is to determine how to get the music that I wanted to search for in the API. 
+Spotify's API allows for searching for tracks within a playlist, and the most straghtforward way I found to get music was by utillizing both pre-existing and self-created playlists.
+Below is an example of one of the playlists I used to get a list of songs emblematic of country music in the 1960's[^4].
+![ScreenShot](./images/60s_playlist.JPG)
+<br /> 
 ## Data Sources
-qwerty
+
 
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts
 [^2]: A qualitative attribute in this case is a measure of the pressence of a certain element in a song, such as its perceived acousticness, energy, etc.
 [^3]: The perceived positivity/negativity of a song.
+[^4]: Obviously people's opinions on what the defining music of a decade is, and it was a challenge to find a process that worked with a sense of objectivity.  
+For country music, Spotify has devoted playlists for each decade, which I decided were effective in depicting the music norms of the time.  Seeing as I am relying on Spotify's algorithms to determine audio features, why not count of them to list defining country songs of each decade?
