@@ -33,7 +33,7 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 1. [Data Questions](#data-questions)
 2. [Methodology](#methodology)
 3. [Data Sources](#data-sources)
-4. [Auth, Cleaning, and Exporting](#auth,-cleaning,-and-exporting)
+4. [Auth,Cleaning,and Exporting](#auth,cleaning,and-exporting)
 
 ## Data Questions
 1. How has country music changed musically from decade to decade since the 1960's?
@@ -63,7 +63,7 @@ Below is an example of one of the playlists I used to get a list of songs emblem
 <br /> 
 I primarily relied on Spotify-created playlists for country music, and for pop I utillized [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era), which generates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
 <br />
-## Auth, Cleaning, and Exporting
+## Auth,Cleaning,and Exporting
 My preferred method of querying in the API was by using the [Spotipy]() library for python.
 
 
