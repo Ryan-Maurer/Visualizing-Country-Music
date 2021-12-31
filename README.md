@@ -24,6 +24,10 @@ Tools and Processes:
 As someone who is relatively ignorant to country music and its history, I have nevertheless many times been exposed to the notion that country music has evolved into something very different, if not contrary, from what it was during its "Golden Era".
 [^1]
 While some people making this observation are concerned about the incorporation of modern digital elements, I think that many people view country music in today's socio-cultural space as being very different from where it was during the mid-twentieth century.
-Common complaints involve a perceived overlap between contemporary pop and country music, even incorporating elements from rap and hip hop as well.  
-This growing trend is in opposition to Golden Era country music, where its place in the musical landscape was (presumably) more carved out and distinct.
+Common complaints involve a perceived overlap between contemporary pop and country music, even incorporating elements from rap and hip hop as well.  This growing trend is in opposition to Golden Era country music, where its place in the musical landscape was (presumably) more carved out and distinct.
 While I have no wish to judge whether I agree with this sentiment, nor voice preference of one form of music over another, I thought that it would be interesting to see if this claim can be backed up visually by data.
+
+<br \>
+
+test
+[^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts
