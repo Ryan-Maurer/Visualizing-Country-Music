@@ -35,11 +35,20 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 3. [Data Sources](#data-sources)
 
 ## Data Questions
-qwerty
+1. How has country music changed musically from decade to decade since the 1960's?
+2. How has pop music changed musically from decade to decade since the 1960's?
+3. How has pop and country music's trajectories correlated/diverted?
 
 ## Methodology 
-In determining the best way of investigating the 
-qwerty
+In determining the best way of investigating the changes in country music, it's best to look at the source itself, the music of course! 
+Whereas before it may have been difficult to objectively get qualitative attributes [^2]of songs besides length and tempo, today we have algorithms that can determine qualities of a song through processes such as machine learning.
+One of the most phemonenol features that Spotify provides is their end-of-year "Wrapped" playlists, which utillizes these algorithms in no small part to make conclusions about their user's listening habits.
+Does this user prefer happier up-tempo music, or do they prefer slower more somber music?  Based on how their preferred music rates in terms of valence[^3], energy, and tempo, Spotify can use that data to draw conclusions.
+
+
 ## Data Sources
 qwerty
+
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts
+[^2]: A qualitative attribute in this case is a measure of the pressence of a certain element in a song, such as its perceived acousticness, energy, etc.
+[^3]: The perceived positivity/negativity of a song.
