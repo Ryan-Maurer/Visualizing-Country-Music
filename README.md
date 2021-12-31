@@ -45,12 +45,12 @@ Whereas before it may have been difficult to objectively get qualitative attribu
 One of the most phemonenol features that Spotify provides is their end-of-year "Wrapped" playlists, which utillizes these types of algorithms in no small part to make conclusions about their user's listening habits.
 Does this user prefer happier up-tempo music, or do they prefer slower more somber music?  Based on how their preferred music rates in terms of valence[^3], energy, etc, Spotify can use that data to draw conclusions.
 Spotify provides access to this information for their entire catalogue through their API, which we can use to get all of the attributes we want for our songs.  
-Below is an example of an API query to get the audio features for the song "Achy Breaky Heart" by Billy Ray Cyrus:
+Below is an example of the results of an API query to get the audio features for the song "Achy Breaky Heart" by Billy Ray Cyrus:
 <br />
 ![ScreenShot](./images/achy_breaky.JPG)
 <br />
 Each variable is listed with its rating, and these could be aggregated together to make inferences about musical norms. 
-As stated, this projects aims to aggregate country music by decade, in order to determine changes in musical preferences across decades.
+As stated, this projects aims to aggregate country music by decade in order to determine changes in musical preferences across decades.
 In order to do so, lists of songs that are indicative of the music that was going on at the time is integral to this project.
 <br />
 ## Data Sources
@@ -60,6 +60,7 @@ Below is an example of one of the playlists I used to get a list of songs emblem
 <br />
 ![ScreenShot](./images/60s_playlist.JPG)
 <br /> 
+I primarily relied on Spotify-created playlists for country music, and for pop I utillized [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era), which generates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
 
 
 
@@ -67,4 +68,4 @@ Below is an example of one of the playlists I used to get a list of songs emblem
 [^2]: A qualitative attribute in this case is a measure of the pressence of a certain element in a song, such as its perceived acousticness, energy, etc.
 [^3]: The perceived positivity/negativity of a song.
 [^4]: Obviously people's opinions on what the defining music of a decade is, and it was a challenge to find a process that worked with a sense of objectivity.  
-For country music, Spotify has devoted playlists for each decade, which I decided were effective in depicting the musical norms of the time.  
+For country music, Spotify has devoted playlists for each decade, which I determined effective in depicting the musical norms of the time.  
