@@ -53,17 +53,18 @@ Each variable is listed with its rating, and these could be aggregated together 
 As stated, this projects aims to aggregate country music by decade, in order to determine changes in musical preferences across decades.
 In order to do so, lists of songs that are indicative of the music that was going on at the time is integral to this project.
 <br />
+## Data Sources
 The next step is to determine how to get the music that I wanted to search for in the API. 
 Spotify's API allows for searching for tracks within a playlist, and the most straghtforward way I found to get music was by utillizing both pre-existing and self-created playlists.
 Below is an example of one of the playlists I used to get a list of songs emblematic of country music in the 1960's[^4].
 <br />
 ![ScreenShot](./images/60s_playlist.JPG)
 <br /> 
-## Data Sources
+
 
 
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts
 [^2]: A qualitative attribute in this case is a measure of the pressence of a certain element in a song, such as its perceived acousticness, energy, etc.
 [^3]: The perceived positivity/negativity of a song.
 [^4]: Obviously people's opinions on what the defining music of a decade is, and it was a challenge to find a process that worked with a sense of objectivity.  
-For country music, Spotify has devoted playlists for each decade, which I decided were effective in depicting the music norms of the time.  Seeing as I am relying on Spotify's algorithms to determine audio features, why not count of them to list defining country songs of each decade?
+For country music, Spotify has devoted playlists for each decade, which I decided were effective in depicting the musical norms of the time.  
