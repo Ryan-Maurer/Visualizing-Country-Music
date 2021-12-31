@@ -54,7 +54,7 @@ Below is an example of the results of an API query to get the audio features for
 <br />
 Each variable is listed with its rating, and a collection of these queries from releases of a particular time/genre can aid in making inferences about musical norms. 
 As stated, this projects aims to collect country music and its attributes into a useable format in order to determine changes in musical preferences across decades.
-In order to do so, lists of songs that are indicative of the music that was going on at the time is integral to this project.
+In order to do so, lists of songs that are indicative of each decade is integral to the success of this project.
 <br />
 ## Data Sources
 The next step is to determine how to get the music to search for in the API. 
@@ -63,7 +63,7 @@ Below is an example of one of the playlists I used to get a list of songs emblem
 <br /> 
 ![image](./images/60s_playlist.JPG)
 <br />
-I primarily relied on Spotify-created playlists for country music, and for pop I inputted data from [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era)[^5] into Spotify playlists. 
+I primarily relied on Spotify-created playlists for country music, and for pop I inputted data from [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era) into Spotify playlists[^5] . 
 I inputted data from the billboard hot 100 year-end charts for contemporary pop and country as well. 
 <br />
 ## Cleaning and Exporting
@@ -73,7 +73,7 @@ The process was to get the data from JSON format into a Pandas DataFrame, and th
 <br />
 ## Analysis
 I've found boxplots to be incredibly useful in visualizing changes across decades.  In this case, they give a high-level understanding of the distribution of the data for each variable, and when plotted by decade, paint an informative picture of how they change over time.
-We can see, for instance, that acousticness overall has become predictably less and less prominant over time.  Due to the adoption of digital instruments and recording processes, it is no surprise to see this taking place and it outlines an effective way of interpretting this data, which to compare what is being displayed to what we know about the progression of music and the adoption of technology over the last several decades.
+We can see, for instance, that acousticness overall has become predictably less and less prominant over time.  Due to the adoption of digital instruments and recording processes, it is no surprise to see this taking place and it outlines an effective way of interpretting this data, which is to compare what is being displayed to what we know about the progression of music and the adoption of technology over the last several decades.
 To determine if there are issues with data one often performs a sanity check, where the comparison between the story being told by the data and what the analyst expects to see is not contradictory.
 In this case, the increasingly smaller representation of accoustiness and the greater representation of energy and loudness was expected and I am happy to be capturing that with this visualization.
 ![box](./images/boxplots.JPG)
@@ -84,4 +84,4 @@ We can see
 [^3]: The perceived positivity/negativity of a song.
 [^4]: Obviously people's opinions on what the defining music of a decade is, and it was a challenge to find a process that worked with a sense of objectivity.  
 For country music, Spotify has devoted playlists for each decade, which I determined effective in depicting the musical norms of the time.  
-[^5]: An online database that creates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
+[^5]: An online database that creates lists of the most popular songs for each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
