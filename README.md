@@ -30,9 +30,9 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 <br />
 
 # Table of Contents
-1. [Data Questions](#Data Questions)
+1. [Data Questions](#data-questions)
 2. [Methodology](#methodology)
-3. [Data Sources](#Data Sources
+3. [Data Sources](#data-sources
 
 ## Data Questions
 qwerty
