@@ -1,4 +1,5 @@
 ![image](./images/Spotify_banner.jpg)
+![achy](./images/achy_breaky_console.jpg)
 # Visualizing Country Music Using Python, Power BI, and the Spotify API
 This project aims to  identify changes withhin the country music genre through the utillizaiton of Spotify's API.
 
@@ -48,7 +49,7 @@ Does this user prefer happier up-tempo music, or do they prefer slower more somb
 Another great thing about Spotify is that they provide access to this information for their entire catalogue through their API.  
 Below is an example of an API query to get the audio features for the song "Achy Breaky Heart" by Billy Ray Cyrus:
 <br />
-![achy](achy_breaky_console.jpg)
+![achy](./images/achy_breaky_console.jpg)
 <br />
 ## Data Sources
 qwerty
