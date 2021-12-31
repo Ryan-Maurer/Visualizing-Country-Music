@@ -2,7 +2,7 @@
 # Visualizing Country Music Using Python, Power BI, and the Spotify API
 This project aims to  identify changes withhin the country music genre across decades through the utillizaiton of Spotify's API.
 
-Tools and Processes:
+Tools and Procedures:
 
 * Python (Pandas, Matplotlib, Spotipy library)
 
@@ -49,12 +49,12 @@ Below is an example of the results of an API query to get the audio features for
 <br />
 ![ScreenShot](./images/achy_breaky.JPG)
 <br />
-Each variable is listed with its rating, and these could be aggregated together to make inferences about musical norms. 
-As stated, this projects aims to aggregate country music by decade in order to determine changes in musical preferences across decades.
+Each variable is listed with its rating, and a collection of these queries from releases of a particular time/genre can aid in making inferences about musical norms. 
+As stated, this projects aims to collect country music and its attributes into a useable format in order to determine changes in musical preferences across decades.
 In order to do so, lists of songs that are indicative of the music that was going on at the time is integral to this project.
 <br />
 ## Data Sources
-The next step is to determine how to get the music that I wanted to search for in the API. 
+The next step is to determine how to get the music to search for in the API. 
 Spotify's API allows for searching for tracks within a playlist, and the most straghtforward way I found to get music was by utillizing both pre-existing and self-created playlists.
 Below is an example of one of the playlists I used to get a list of songs emblematic of country music in the 1960's[^4].
 <br />
