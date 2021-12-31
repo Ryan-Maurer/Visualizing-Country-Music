@@ -63,6 +63,7 @@ Below is an example of one of the playlists I used to get a list of songs emblem
 <br /> 
 ![image](./images/60s_playlist.JPG)
 I primarily relied on Spotify-created playlists for country music, and for pop I utillized [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era), which generates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
+I used data from the billboard hot 100 year-end charts for contemporary pop and country. 
 <br />
 ## Cleaning and Exporting
 My preferred method of querying in the API was by using the [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) library for python.
@@ -70,10 +71,8 @@ The process was to get the data from JSON format into a Pandas DataFrame, and th
 ![excel](./images/excel_screen.JPG)
 <br />
 ## Analysis
-I've found boxplots to be incredibly useful in visualizing changes across decades.  
-In this case, they give a high-level understanding of the distribution of the data for each variable, and when plotted by decade, paint an informative picture of how they change over time.
-We can see, for instance, that acousticness overall has become predictably less and less prominant over time.  
-Due to the adoption of digital instruments and recording processes, it is no surprise to see this taking place and it outlines an effective way of interpretting this data, which to compare what is being displayed to what we know about the progression of music and the adoption of technology over the last several decades.
+I've found boxplots to be incredibly useful in visualizing changes across decades.  In this case, they give a high-level understanding of the distribution of the data for each variable, and when plotted by decade, paint an informative picture of how they change over time.
+We can see, for instance, that acousticness overall has become predictably less and less prominant over time.  Due to the adoption of digital instruments and recording processes, it is no surprise to see this taking place and it outlines an effective way of interpretting this data, which to compare what is being displayed to what we know about the progression of music and the adoption of technology over the last several decades.
 To determine if there are issues with data one often performs a sanity check, where the comparison between the story being told by the data and what the analyst expects to see is not contradictory.
 In this case, the increasingly smaller representation of accoustiness and the greater representation of energy and loudness was expected and I am happy to be capturing that with this visualization.
 ![box](./images/boxplots.JPG)
