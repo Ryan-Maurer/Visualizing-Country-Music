@@ -20,7 +20,7 @@ Tools and Processes:
 
 # "Country music is gone - and it's not coming back." 
 
-/ 
+\
 
 # - Alan Jackson
 
@@ -28,10 +28,10 @@ As someone who is relatively ignorant to country music and its history, I have n
 [^1]
 While some people making this observation are concerned about the incorporation of modern digital elements, I think many people view country music in today's socio-cultural space as being very different from where it did during the mid-twentieth century.
 
-/
+\
 
 test
 
-/
+\
 
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts. 
