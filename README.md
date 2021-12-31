@@ -43,9 +43,12 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 In determining the best way of investigating the changes in country music, it's best to look at the source itself, the music of course! 
 Whereas before it may have been difficult to objectively get qualitative attributes [^2]of songs besides length and tempo, today we have algorithms that can determine qualities of a song through processes such as machine learning.
 One of the most phemonenol features that Spotify provides is their end-of-year "Wrapped" playlists, which utillizes these algorithms in no small part to make conclusions about their user's listening habits.
-Does this user prefer happier up-tempo music, or do they prefer slower more somber music?  Based on how their preferred music rates in terms of valence[^3], energy, and tempo, Spotify can use that data to draw conclusions.
-
-
+Does this user prefer happier up-tempo music, or do they prefer slower more somber music?  Based on how their preferred music rates in terms of valence[^3], energy, etc, Spotify can use that data to draw conclusions.
+<br />
+Another great thing about Spotify is that they provide access to this information for their entire catalogue through their API.  
+Below is an example of an API query to get the audio features for the song "Achy Breaky Heart" by Billy Ray Cyrus:
+![image](./images/achy_breaky_console.jpg)
+<br />
 ## Data Sources
 qwerty
 
