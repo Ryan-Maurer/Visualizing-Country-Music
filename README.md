@@ -20,9 +20,9 @@ Tools and Processes:
 
 ## "Country music is gone - and it's not coming back."- Alan Jackson
 
-As someone who is relatively ignorant to country music and its history, I have nevertheless many times over been exposed to the notion that country music has evolved into something very different, if not contrary, from what it was during its "Golden Era".
+As someone who is relatively ignorant to country music and its history, I have nevertheless many times been exposed to the notion that country music has evolved into something very different, if not contrary, from what it was during its "Golden Era".
 [^1]
-While some people making this observation are concerned about the incorporation of modern digital elements, I think many people view country music in today's socio-cultural space as being very different from where it was during the mid-twentieth century.
+While some people making this observation are concerned about the incorporation of modern digital elements, I think that many people view country music in today's socio-cultural space as being very different from where it was during the mid-twentieth century.
 
 <br />
 
