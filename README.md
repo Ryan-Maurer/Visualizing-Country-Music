@@ -32,7 +32,7 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 # Table of Contents
 1. [Data Questions](#data-questions)
 2. [Methodology](#methodology)
-3. [Data Sources](#data-sources
+3. [Data Sources](#data-sources)
 
 ## Data Questions
 qwerty
