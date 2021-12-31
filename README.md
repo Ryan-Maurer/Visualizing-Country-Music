@@ -33,7 +33,7 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 1. [Data Questions](#data-questions)
 2. [Methodology](#methodology)
 3. [Data Sources](#data-sources)
-4. [Auth Cleaning and Exporting](#auth-cleaning-and-exporting)
+4. [Auth, Cleaning, and Exporting](#auth,-cleaning,-and-exporting)
 
 ## Data Questions
 1. How has country music changed musically from decade to decade since the 1960's?
