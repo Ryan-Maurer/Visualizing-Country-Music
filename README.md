@@ -23,8 +23,8 @@ Tools and Procedures:
 
 As someone who is relatively ignorant of country music and its history, I have many times been exposed to the notion that country music has evolved into something very different, if not contrary, from what it was during its "Golden Era".
 [^1]
-While some people making this observation are simply concerned about the incorporation of modern digital elements, I think that many people view country music's place in today's musical landscape as being very different from where it was during the mid-twentieth century.
-A common complaint involves increasing overlap between it and pop music, even incorporating elements from rap and hip hop as well.  This growing trend is in opposition to Golden Era country music, where its place in the musical landscape was (presumably) more carved out and distinct.
+While some people making this observation are simply concerned about the incorporation of digital elements into the genre, I think that many people view country music's place in today's musical landscape as being very different from where it was during the mid-twentieth century.
+A common complaint involves an increasing overlap between it and pop music, even incorporating elements from rap and hip hop as well.  This growing trend is in opposition to Golden Era country music, where its place in the musical landscape was (presumably) more carved out and distinct.
 While I have no wish to judge whether I agree with this sentiment, nor voice preference of one form of music over another, I thought that it would be interesting to investigate this claim visually using data analysis techniques.
 
 <br />
@@ -39,7 +39,7 @@ While I have no wish to judge whether I agree with this sentiment, nor voice pre
 ## Data Questions
 1. How has country music changed musically from decade to decade since the 1960's?
 2. How has pop music changed musically from decade to decade since the 1960's?
-3. How has pop and country music's trajectories correlated/diverted?
+3. How have pop and country music's trajectories correlated/diverted?
 
 ## Methodology 
 In determining the best way of investigating the changes in country music, it's best to look at the source itself, the music of course! 
@@ -62,8 +62,9 @@ Spotify's API allows for searching for tracks within a playlist, and the most st
 Below is an example of one of the playlists I used to get a list of songs emblematic of country music in the 1960's[^4].
 <br /> 
 ![image](./images/60s_playlist.JPG)
-I primarily relied on Spotify-created playlists for country music, and for pop I utillized [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era), which generates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
-I used data from the billboard hot 100 year-end charts for contemporary pop and country. 
+<br />
+I primarily relied on Spotify-created playlists for country music, and for pop I inputted data from [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era)[^5] into Spotify playlists. 
+I inputted data from the billboard hot 100 year-end charts for contemporary pop and country as well. 
 <br />
 ## Cleaning and Exporting
 My preferred method of querying in the API was by using the [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) library for python.
@@ -83,3 +84,4 @@ We can see
 [^3]: The perceived positivity/negativity of a song.
 [^4]: Obviously people's opinions on what the defining music of a decade is, and it was a challenge to find a process that worked with a sense of objectivity.  
 For country music, Spotify has devoted playlists for each decade, which I determined effective in depicting the musical norms of the time.  
+[^5]: An online database that creates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
