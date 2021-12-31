@@ -56,6 +56,7 @@ In order to do so, lists of songs that are indicative of the music that was goin
 The next step is to determine how to get the music that I wanted to search for in the API. 
 Spotify's API allows for searching for tracks within a playlist, and the most straghtforward way I found to get music was by utillizing both pre-existing and self-created playlists.
 Below is an example of one of the playlists I used to get a list of songs emblematic of country music in the 1960's[^4].
+<br />
 ![ScreenShot](./images/60s_playlist.JPG)
 <br /> 
 ## Data Sources
