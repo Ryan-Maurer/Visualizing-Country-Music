@@ -21,13 +21,15 @@ Tools and Processes:
 
 ## "Country music is gone - and it's not coming back."- Alan Jackson
 
-As someone who is relatively ignorant to country music and its history, I have many times been exposed to the notion that country music has evolved into something very different, if not contrary, from what it was during its "Golden Era".
+As someone who is relatively ignorant of country music and its history, I have many times been exposed to the notion that country music has evolved into something very different, if not contrary, from what it was during its "Golden Era".
 [^1]
-While some people making this observation are concerned about the incorporation of modern digital elements, I think that many people view country music in today's socio-cultural space as being very different from where it was during the mid-twentieth century.
-A common complaint involves increasing overlap between contemporary pop and country music, even incorporating elements from rap and hip hop as well.  This growing trend is in opposition to Golden Era country music, where its place in the musical landscape was (presumably) more carved out and distinct.
+While some people making this observation are concerned about the incorporation of modern digital elements, I think that many people view country music's place in today's musical landscape as being very different from where it was during the mid-twentieth century.
+A common complaint involves increasing overlap between it and pop music, even incorporating elements from rap and hip hop as well.  This growing trend is in opposition to Golden Era country music, where its place in the musical landscape was (presumably) more carved out and distinct.
 While I have no wish to judge whether I agree with this sentiment, nor voice preference of one form of music over another, I thought that it would be interesting to investigate this claim visually using data analysis techniques.
 
 <br />
 
-test
+## Methodology 
+In determining the best way of investigating the 
+
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts
