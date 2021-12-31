@@ -64,8 +64,9 @@ Below is an example of one of the playlists I used to get a list of songs emblem
 I primarily relied on Spotify-created playlists for country music, and for pop I utillized [davesmusicdatabase.blogspot.com](https://davesmusicdatabase.blogspot.com/p/best-of-lists.html#songs-era), which generates lists of the most popular songs of each decade utillizing sales figures, chart data, radio airplay, and streaming figures.
 <br />
 ## Cleaning and Exporting
-My preferred method of querying in the API was by using the [Spotipy]() library for python.
-
+My preferred method of querying in the API was by using the [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) library for python.
+The process was to get the data from JSON format into a Pandas DataFrame, and then export in csv format for dashboarding.  
+![excel](./images/excel_screen.JPG)
 
 [^1]: "Golden Era" generally referring the period bewteen the 50's and 60's when the likes of Johnny Cash, Patsy Cline, and Merle Haggard dominated the charts
 [^2]: A qualitative attribute in this case is a measure of the pressence of a certain element in a song, such as its perceived acousticness, energy, etc.
