@@ -72,7 +72,7 @@ The process was to get the data from JSON format into a Pandas DataFrame, and th
 <br />
 ## Analysis
 I've found boxplots to be incredibly useful in visualizing changes across decades.  In this case, they give a high-level understanding of the distribution of the data for each variable, and when plotted by decade, paint an informative picture of how they change over time.
-We can see, for instance, that acousticness overall has become predictably less and less prominant over time.  Due to the adoption of digital instruments and recording processes as opposed to analogue, it is no surprise to see this taking place.  This outlines an effective way of interpretting this data, which is to compare what is being displayed to what we know about the progression of music and the adoption of technology over the last several decades.
+We can see, for instance, that acousticness overall has become predictably less and less prominant over time.  Due to the adoption of digital instruments and recording processes as opposed to analog, it is no surprise to see this taking place.  This outlines an effective way of interpretting this data, which is to compare what is being displayed to what we know about the progression of music and the adoption of technology over the last several decades.
 
 ![box](./images/boxplots.JPG)[^6]
 <br />
@@ -89,7 +89,7 @@ Lastly, the other Power BI dashboard allows for the data to be summarized in oth
 To reiterate, much of the analysis involves comparing what is being depicted through the visuals with what one would expect to see based on prior music knowledge.  Although my country music know-how is limited, I did expect to see a lessening of acoustic elements as the timeline neared the new millenium due to increasing reliance on digital music elements.  Someone with more extensive country music knowledge would probably know the "why" of some of the behavior being captured through these visuals.  Some things I found interesting are as follows:
 
 1. The danceabillity metric behaved very differently between country and pop, with it being more concentrated around the median with a gradual tapering off for country and more variabillity with gradual increasing in prevalence for pop.
-2. Pop music rewarded highly energetic music with strong concentration around the mean for the energy variable before it becomes less prominent as the new millenium progresses. Country music suddenly becomes energetic in the 90's and remains at a relatively consistent level.
+2. Pop music rewarded highly energetic music with strong concentration around the mean for the energy variable before it becomes less prominent as the new millennium progresses. Country music suddenly becomes energetic in the 90's and remains at a relatively consistent level.
 3. The greatest musical difference between pop and country found across all variables was for valence during the 90's.
 <br />
 
@@ -105,7 +105,6 @@ The following resources have been incredibly valuable in this project:
 <br />
 
 [https://wallpaperaccess.com/full/1373271.jpg](https://wallpaperaccess.com/full/1373271.jpg)
-
 <br />
 
 [https://towardsdatascience.com/visualizing-spotify-songs-with-python-an-exploratory-data-analysis-fc3fae3c2c09](https://towardsdatascience.com/visualizing-spotify-songs-with-python-an-exploratory-data-analysis-fc3fae3c2c09)
